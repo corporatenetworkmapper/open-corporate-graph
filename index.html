@@ -1,1 +1,94 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Open Corporate Graph</title><link rel="stylesheet" href="app.css"></head><body><div class="app"><header><div><h1>Open Corporate Graph</h1><p>$0 live relationship explorer</p></div><div class="src"><span>● GLEIF</span><span>● Wikidata</span><span>$0 paid APIs</span></div></header><section class="search"><input id="q" autocomplete="off" placeholder="Search company, person, address, or LEI…"><button id="searchBtn" class="primary">Search</button><button id="clearBtn">New graph</button><div id="results" class="results"></div></section><div class="meta"><span id="status">Search to begin. Every visible node comes from a live source.</span><span>Nodes <b id="nodeCount">0</b></span><span>Links <b id="edgeCount">0</b></span></div><main><section class="graphPanel"><div class="graphBar"><div id="crumb">No active path</div><button id="arrangeBtn">Arrange</button><button id="fitBtn">Fit all</button><button id="shotBtn">Full PNG</button><button id="zinBtn">＋</button><button id="zoutBtn">−</button></div><svg id="graph" viewBox="0 0 1120 650"></svg><div class="legend">Blue company · Purple person · Green place · Cyan address<br>Solid sourced · dashed inferred · click any node to expand</div></section><aside><section class="panel"><h2>Selected</h2><div id="details" class="empty">Select a result or graph node.</div></section><section class="panel"><h2>Expansion history</h2><div id="history" class="history empty">Nothing expanded yet.</div></section><section class="panel"><h2>Sources</h2><div class="empty">GLEIF supplies legal entities, addresses, and reported accounting hierarchy. Wikidata supplies people, organizations, headquarters, affiliations, and reverse corporate roles. Every visible node has an expansion route.</div></section></aside></main></div><script src="app.js"></script></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Open Corporate Graph v14.4 Clean Preview</title>
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<div class="app">
+  <header>
+    <div>
+      <div class="brand">OPEN CORPORATE GRAPH</div>
+      <div class="muted">single controller • stable graph pan/drag • automatic premise discovery • lifecycle retained • 50 states + D.C.</div>
+    </div>
+    <div class="chips">
+      <span class="chip">V14.4 CLEAN</span>
+      <span class="chip">ADDRESS-AWARE LOAD</span>
+      <span class="chip">ENTITY DOUBLE CLICK EXPAND</span>
+      <span class="chip">FULL PNG</span>
+    </div>
+  </header>
+
+  <div class="search" id="searchWrap">
+    <input id="q" autocomplete="off" spellcheck="false" placeholder="Search company, person, agent, ID, address…">
+    <button id="go">SEARCH ALL STATES</button>
+    <button id="clear">NEW GRAPH</button>
+    <div id="results" class="results"></div>
+  </div>
+
+  <div class="meta">
+    <span id="status">Ready.</span>
+    <span>NODES <b id="nc">0</b></span>
+    <span>LINKS <b id="ec">0</b></span>
+  </div>
+
+  <div class="work">
+    <div class="bar">
+      <div id="crumb">No active path</div>
+      <button id="auto">AUTO ENRICH ON</button>
+      <button id="arrange">ARRANGE</button>
+      <button id="fit">FIT ALL</button>
+      <button id="png">FULL PNG</button>
+      <button id="zin">＋</button>
+      <button id="zout">−</button>
+    </div>
+
+    <svg id="graph" viewBox="0 0 1120 650" aria-label="Corporate graph"></svg>
+
+    <div class="legend">
+      <div class="legend-title">EXPANSION / COLOR KEY</div>
+      <div class="legend-section">INTERACTION</div>
+      <div class="legend-note"><b>Single click entity</b> inspect + load address context · <b>Double click entity</b> deeper expand · <b>Address click</b> inspect open links only · <b>Drag</b> move/pan</div>
+      <div class="legend-section">NODES</div>
+      <div><i class="sw company"></i>company / organization</div>
+      <div><i class="sw person"></i>person / officer</div>
+      <div><i class="sw agent"></i>agent / service company</div>
+      <div><i class="sw address-node"></i>address / merged premise</div>
+      <div class="legend-section">LINKS</div>
+      <div><i class="line money"></i><b>money</b> — ownership / parent / subsidiary / member / manager</div>
+      <div><i class="line control"></i><b>control</b> — executive / director / governance</div>
+      <div><i class="line finance"></i><b>finance</b> — CFO / treasurer / controller</div>
+      <div><i class="line agentlink"></i><b>agent</b> — registered-agent / service</div>
+      <div><i class="line address"></i><b>address</b> — address / HQ / same address / same building</div>
+      <div><i class="line source"></i><b>source</b> — other sourced relationship</div>
+      <div class="legend-section">EXPANSION RULE</div>
+      <div class="legend-note">Loading an entity automatically merges its physical premises and adds a limited batch of identities already attached there. Address nodes are passive junctions and never expand. Double-click entity expansion follows financial/control paths first. Same building is co-location only. Historical lifecycle states remain visible.</div>
+    </div>
+
+    <aside>
+      <section>
+        <div class="head"><b>SELECTED NODE</b><button id="remove" disabled>REMOVE</button></div>
+        <div id="details" class="muted">Select a node.</div>
+      </section>
+      <section>
+        <div class="head"><b>50 STATES + D.C.</b><span id="coverageSummary" class="muted">51 ready</span></div>
+        <div id="stategrid" class="stategrid"></div>
+        <div id="backend" class="muted backend">Every state is isolated from graph rendering; state refreshes never block nodes.</div>
+      </section>
+      <section>
+        <b>EVENTS</b>
+        <div id="hist" class="hist muted">Nothing yet.</div>
+      </section>
+    </aside>
+
+    <div class="hint">TYPE TO OPEN RESULTS • ENTITY CLICK LOADS ADDRESS CONTEXT • ENTITY DOUBLE CLICK EXPANDS • ADDRESS CLICK INSPECTS OPEN LINKS • DRAG EMPTY SPACE TO PAN</div>
+  </div>
+</div>
+<script src="core.js"></script>
+<script src="graph.js"></script>
+<script src="context.js"></script>
+<script src="search.js"></script>
+</body>
+</html>
