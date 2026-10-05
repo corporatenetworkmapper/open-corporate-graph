@@ -1,5 +1,7 @@
 # Open Corporate Graph
 
+**[Open the live map on GitHub Pages](https://corporatenetworkmapper.github.io/open-corporate-graph/)**
+
 A free, browser-based corporate/entity relationship explorer built around public records, provenance, and interactive graph expansion.
 
 ## v14.4
