@@ -1,0 +1,191 @@
+{
+  "current": {
+    "at": "2026-10-05T01:47:01.689Z",
+    "requests": 60,
+    "changed": 60,
+    "errors": [],
+    "newRecords": 48,
+    "nodes": 1226,
+    "edges": 4162,
+    "pending": 1098,
+    "lastSuccessfulFetch": "2026-10-05T01:47:01.689Z",
+    "knownEndpoints": 1873,
+    "coverage": "GLEIF entity records, accounting parents/children, and exact full addresses. Name-only matches remain research leads. Registries without a GLEIF record and social posts are not automatically covered.",
+    "schedule": {
+      "cadence": "daily",
+      "enabledAt": "2026-09-23",
+      "taskId": "6ab323d3845c8191b0389a3672a09d80"
+    }
+  },
+  "runs": [
+    {
+      "at": "2026-09-23T00:56:01.276Z",
+      "requests": 45,
+      "changed": 45,
+      "errors": [],
+      "newRecords": 45,
+      "nodes": 249,
+      "edges": 619,
+      "pending": 373
+    },
+    {
+      "at": "2026-09-23T01:01:11.188Z",
+      "requests": 24,
+      "changed": 24,
+      "errors": [],
+      "newRecords": 24,
+      "nodes": 314,
+      "edges": 784,
+      "pending": 438
+    },
+    {
+      "at": "2026-09-23T03:12:43.599Z",
+      "requests": 0,
+      "changed": 0,
+      "errors": [],
+      "newRecords": 0,
+      "nodes": 314,
+      "edges": 784,
+      "pending": 442
+    },
+    {
+      "at": "2026-09-24T01:26:54.454Z",
+      "requests": 60,
+      "changed": 60,
+      "errors": [],
+      "newRecords": 60,
+      "nodes": 367,
+      "edges": 999,
+      "pending": 458
+    },
+    {
+      "at": "2026-09-25T01:49:10.640Z",
+      "requests": 60,
+      "changed": 58,
+      "errors": [
+        {
+          "url": "https://api.gleif.org/api/v1/lei-records/549300G1Y2CLHBL61K73/direct-parent-relationship",
+          "error": "HTTP 404"
+        },
+        {
+          "url": "https://api.gleif.org/api/v1/lei-records/549300G1Y2CLHBL61K73/ultimate-parent-relationship",
+          "error": "HTTP 404"
+        }
+      ],
+      "newRecords": 58,
+      "nodes": 445,
+      "edges": 1252,
+      "pending": 520
+    },
+    {
+      "at": "2026-09-26T01:11:58.671Z",
+      "requests": 60,
+      "changed": 60,
+      "errors": [],
+      "newRecords": 60,
+      "nodes": 503,
+      "edges": 1434,
+      "pending": 550
+    },
+    {
+      "at": "2026-09-27T01:04:04.633Z",
+      "requests": 60,
+      "changed": 60,
+      "errors": [],
+      "newRecords": 60,
+      "nodes": 587,
+      "edges": 1649,
+      "pending": 610
+    },
+    {
+      "at": "2026-09-27T01:08:37.705Z",
+      "requests": 60,
+      "changed": 60,
+      "errors": [],
+      "newRecords": 60,
+      "nodes": 640,
+      "edges": 1880,
+      "pending": 628
+    },
+    {
+      "at": "2026-09-28T01:15:32.675Z",
+      "requests": 60,
+      "changed": 60,
+      "errors": [],
+      "newRecords": 60,
+      "nodes": 687,
+      "edges": 2145,
+      "pending": 642
+    },
+    {
+      "at": "2026-09-29T01:36:21.316Z",
+      "requests": 60,
+      "changed": 60,
+      "errors": [],
+      "newRecords": 60,
+      "nodes": 820,
+      "edges": 2506,
+      "pending": 772
+    },
+    {
+      "at": "2026-09-30T01:45:05.088Z",
+      "requests": 60,
+      "changed": 60,
+      "errors": [],
+      "newRecords": 48,
+      "nodes": 894,
+      "edges": 2804,
+      "pending": 835
+    },
+    {
+      "at": "2026-10-01T01:46:35.639Z",
+      "requests": 60,
+      "changed": 60,
+      "errors": [],
+      "newRecords": 48,
+      "nodes": 940,
+      "edges": 3023,
+      "pending": 860
+    },
+    {
+      "at": "2026-10-02T01:17:49.427Z",
+      "requests": 60,
+      "changed": 60,
+      "errors": [],
+      "newRecords": 48,
+      "nodes": 1018,
+      "edges": 3316,
+      "pending": 930
+    },
+    {
+      "at": "2026-10-03T01:14:32.772Z",
+      "requests": 60,
+      "changed": 60,
+      "errors": [],
+      "newRecords": 48,
+      "nodes": 1088,
+      "edges": 3617,
+      "pending": 992
+    },
+    {
+      "at": "2026-10-04T01:54:14.402Z",
+      "requests": 60,
+      "changed": 60,
+      "errors": [],
+      "newRecords": 48,
+      "nodes": 1204,
+      "edges": 3913,
+      "pending": 1106
+    },
+    {
+      "at": "2026-10-05T01:47:01.689Z",
+      "requests": 60,
+      "changed": 60,
+      "errors": [],
+      "newRecords": 48,
+      "nodes": 1226,
+      "edges": 4162,
+      "pending": 1098
+    }
+  ]
+}

@@ -1,0 +1,3218 @@
+{
+  "nodes": [
+    {
+      "id": "ward",
+      "label": "Ward / Rayne interest",
+      "kind": "record",
+      "x": 5,
+      "y": 7,
+      "subtitle": "Historical title branch",
+      "detail": "Historical predecessor interest. Operative succession and any divesting instrument must be authenticated from property and probate records.",
+      "groups": [
+        "property"
+      ]
+    },
+    {
+      "id": "church",
+      "label": "Church of the Good Shepherd",
+      "kind": "nonprofit",
+      "x": 14,
+      "y": 7,
+      "subtitle": "1979 grantee",
+      "detail": "Unincorporated church identified as grantee in the working 1979 parent-Rayne-tract conveyance.",
+      "evidence": [
+        "1979 conveyance — authenticate complete instrument"
+      ],
+      "groups": [
+        "property"
+      ]
+    },
+    {
+      "id": "gap",
+      "label": "Missing authority node",
+      "kind": "unresolved",
+      "x": 23,
+      "y": 7,
+      "subtitle": "Church → Development Fund",
+      "detail": "No authenticated instrument presently establishes transfer of the specific parcel from the unincorporated Church to the Development Fund before the latter acted as grantor.",
+      "evidence": [
+        "Negative-record finding — certified index proof still required"
+      ],
+      "groups": [
+        "property"
+      ]
+    },
+    {
+      "id": "devfund",
+      "label": "Good Shepherd Development Fund",
+      "kind": "nonprofit",
+      "x": 32,
+      "y": 7,
+      "subtitle": "Purported 1993 grantor",
+      "detail": "Appears as a distinct legal party from the unincorporated Church and purported to convey in 1993.",
+      "evidence": [
+        "1983 deed of trust — distinct-party evidence",
+        "1993 Nueces County Doc. 840822"
+      ],
+      "groups": [
+        "property"
+      ]
+    },
+    {
+      "id": "beecroft",
+      "label": "Sam N. Beecroft",
+      "kind": "person",
+      "x": 41,
+      "y": 7,
+      "subtitle": "1993 grantee",
+      "detail": "Downstream grantee in document 840822; the transaction depends on the Development Fund's authority over the parcel.",
+      "evidence": [
+        "Nueces County Doc. 840822"
+      ],
+      "groups": [
+        "property"
+      ]
+    },
+    {
+      "id": "laterchain",
+      "label": "Myrtleson / later chain",
+      "kind": "company",
+      "x": 41,
+      "y": 14,
+      "subtitle": "Downstream title branch",
+      "detail": "Grouped downstream property branch pending authentication of every entity and operative instrument.",
+      "groups": [
+        "property"
+      ]
+    },
+    {
+      "id": "dgct",
+      "label": "DGCT Ltd.",
+      "kind": "company",
+      "x": 32,
+      "y": 20,
+      "subtitle": "Claimed 2015 ownership history",
+      "detail": "Durrill-associated entity appearing in the working later-chain chronology. Exact acquisition and disposition instruments remain document targets.",
+      "groups": [
+        "property",
+        "durrill"
+      ]
+    },
+    {
+      "id": "615",
+      "label": "615 S. Upper Broadway",
+      "kind": "property",
+      "x": 23,
+      "y": 27,
+      "subtitle": "APN 290497 · Rayne Tract D",
+      "detail": "Disputed Corpus Christi property at the center of the evidence graph. Legal description: approximately 0.2907 acre out of Block 3 of the Rayne Tract, also identified as Tract D west of Broadway.",
+      "evidence": [
+        "Nueces CAD account 7135-0003-0040",
+        "Working title-chain record"
+      ],
+      "groups": [
+        "property",
+        "durrill",
+        "government"
+      ]
+    },
+    {
+      "id": "southern",
+      "label": "Southern Builders Co., LLC",
+      "kind": "company",
+      "x": 14,
+      "y": 20,
+      "subtitle": "Separate property branch",
+      "detail": "Corporate node tied to the 7406 Milky Way branch through recorded-document research.",
+      "groups": [
+        "property",
+        "archive"
+      ]
+    },
+    {
+      "id": "7406",
+      "label": "7406 Milky Way Dr.",
+      "kind": "property",
+      "x": 5,
+      "y": 20,
+      "subtitle": "Doc. 2015033478 branch",
+      "detail": "Separate property branch. A person-level connection requires the underlying recorded instrument and is not inferred from identity or family association.",
+      "evidence": [
+        "Document target: 2015033478"
+      ],
+      "groups": [
+        "property",
+        "archive"
+      ]
+    },
+    {
+      "id": "paul",
+      "label": "Private heirship succession",
+      "kind": "record",
+      "x": 5,
+      "y": 27,
+      "subtitle": "Family identities omitted",
+      "detail": "Private succession branch retained without naming family members. Exact operative instruments remain controlling.",
+      "groups": [
+        "property"
+      ]
+    },
+    {
+      "id": "durrillprops",
+      "label": "Durrill Properties",
+      "kind": "company",
+      "x": 31,
+      "y": 34,
+      "subtitle": "Business-management operation",
+      "detail": "Texas appellate authority describes Durrill Properties as the business-management operation for William Durrill's ventures, including real estate, and as used to operate the Devary Durrill Foundation.",
+      "evidence": [
+        "Texas 13th Court of Appeals, No. 13-17-00431-CV"
+      ],
+      "groups": [
+        "durrill"
+      ]
+    },
+    {
+      "id": "foundation",
+      "label": "Devary Durrill Foundation",
+      "kind": "nonprofit",
+      "x": 40,
+      "y": 34,
+      "subtitle": "Foundation / real-estate network",
+      "detail": "Documented nonprofit node connected to Durrill Properties by appellate authority and to City zoning and civic-project records.",
+      "groups": [
+        "durrill",
+        "government"
+      ]
+    },
+    {
+      "id": "durrill",
+      "label": "William R. Durrill Jr.",
+      "kind": "person",
+      "x": 49,
+      "y": 34,
+      "subtitle": "Bill Durrill",
+      "detail": "Individual node supported by corporate, City, campaign-finance and project records. Each relationship is separately typed; proximity does not imply misconduct.",
+      "groups": [
+        "durrill",
+        "government"
+      ]
+    },
+    {
+      "id": "shoreline",
+      "label": "101 Shoreline Ltd.",
+      "kind": "company",
+      "x": 31,
+      "y": 41,
+      "subtitle": "City vendor · 615 address",
+      "detail": "City vendor using 615 S. Upper Broadway / Suite 1200 and counterparty to a City lease for police and municipal-court parking at 221 S. Water Street.",
+      "evidence": [
+        "Corpus Christi ethics reports 2024–2025",
+        "City Council lease record, 2021",
+        "City check registers"
+      ],
+      "groups": [
+        "durrill",
+        "government"
+      ]
+    },
+    {
+      "id": "farms",
+      "label": "Durrill Farms LLC",
+      "kind": "company",
+      "x": 40,
+      "y": 41,
+      "subtitle": "Zoning applicant",
+      "detail": "Entity receiving documented municipal zoning action. This is an official-government interaction, not proof of a title transaction at 615.",
+      "groups": [
+        "durrill",
+        "government"
+      ]
+    },
+    {
+      "id": "firstev",
+      "label": "First Evangelical Church",
+      "kind": "nonprofit",
+      "x": 49,
+      "y": 7,
+      "subtitle": "Church branch",
+      "detail": "Historic church/nonprofit node retained for documentary expansion.",
+      "groups": [
+        "durrill",
+        "archive"
+      ]
+    },
+    {
+      "id": "olivechurch",
+      "label": "Olive Branch Church of Christ",
+      "kind": "nonprofit",
+      "x": 49,
+      "y": 14,
+      "subtitle": "Corpus Christi church branch",
+      "detail": "Existing church-network node. It must not be merged with Olive Branch Acquisitions LLC without a documentary bridge.",
+      "groups": [
+        "durrill",
+        "archive"
+      ]
+    },
+    {
+      "id": "howard",
+      "label": "Howard S. Durrill",
+      "kind": "person",
+      "x": 49,
+      "y": 21,
+      "subtitle": "Church-network person",
+      "detail": "Person node associated with the church branch in the existing investigation; underlying filings and deeds control the exact edge.",
+      "groups": [
+        "durrill",
+        "archive"
+      ]
+    },
+    {
+      "id": "cma",
+      "label": "Christian & Missionary Alliance Foundation",
+      "kind": "nonprofit",
+      "x": 49,
+      "y": 28,
+      "subtitle": "Foundation branch",
+      "detail": "Nonprofit branch retained for deed, governance and financial-record expansion.",
+      "groups": [
+        "durrill",
+        "archive"
+      ]
+    },
+    {
+      "id": "oliveacq",
+      "label": "Olive Branch Acquisitions LLC",
+      "kind": "company",
+      "x": 57,
+      "y": 14,
+      "subtitle": "WY · formed Oct. 9, 2025",
+      "detail": "Wyoming LLC no. 2025-001787290. Registered Agents Inc. appears as organizer and registered agent. No bridge to Olive Branch Church is established.",
+      "evidence": [
+        "User-supplied OpenCorporates record",
+        "Wyoming company no. 2025-001787290"
+      ],
+      "groups": [
+        "durrill",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "rai",
+      "label": "Registered Agents Inc.",
+      "kind": "company",
+      "x": 57,
+      "y": 21,
+      "subtitle": "Organizer + registered agent",
+      "detail": "National formation and registered-agent infrastructure. An agent relationship is not ownership or control.",
+      "groups": [
+        "durrill",
+        "infrastructure",
+        "archive"
+      ]
+    },
+    {
+      "id": "30gould",
+      "label": "30 N Gould St Ste R",
+      "kind": "address",
+      "x": 57,
+      "y": 28,
+      "subtitle": "Sheridan, WY 82801",
+      "detail": "Normalized registered-office address used by Registered Agents Inc. and many entities. Same-address matches are infrastructure relationships only.",
+      "groups": [
+        "infrastructure",
+        "archive"
+      ]
+    },
+    {
+      "id": "national",
+      "label": "National entity infrastructure",
+      "kind": "record",
+      "x": 57,
+      "y": 35,
+      "subtitle": "Cross-jurisdiction index",
+      "detail": "Expansion hub for registered agents, organizers, addresses, filings and hard identifiers. It never collapses infrastructure into ownership.",
+      "groups": [
+        "infrastructure",
+        "archive"
+      ]
+    },
+    {
+      "id": "city",
+      "label": "City of Corpus Christi",
+      "kind": "government",
+      "x": 18,
+      "y": 53,
+      "subtitle": "Municipal government",
+      "detail": "Government hub for permitting, zoning, contracts, payments, planning, police/court use and public-record custody.",
+      "groups": [
+        "government",
+        "durrill"
+      ]
+    },
+    {
+      "id": "council",
+      "label": "Corpus Christi City Council",
+      "kind": "government",
+      "x": 9,
+      "y": 61,
+      "subtitle": "Official decisionmaker",
+      "detail": "Approved Durrill-network zoning and lease matters reflected in public records. No causal connection to the disputed title gap is established by those actions alone.",
+      "groups": [
+        "government",
+        "durrill"
+      ]
+    },
+    {
+      "id": "guajardo",
+      "label": "Mayor Paulette Guajardo",
+      "kind": "government",
+      "x": 18,
+      "y": 69,
+      "subtitle": "Council member → Mayor",
+      "detail": "Documented municipal-role connections: 2019 consent-agenda motion including Foundation rezoning; mayor during 2021 lease approval; 2024 civic event; 2025 disclosed campaign contribution.",
+      "evidence": [
+        "Council minutes, Feb. 19, 2019",
+        "Council lease record, Dec. 7, 2021",
+        "City civic-event notice, 2024",
+        "Campaign-finance report, 2025"
+      ],
+      "groups": [
+        "government",
+        "durrill"
+      ]
+    },
+    {
+      "id": "devservices",
+      "label": "Development Services",
+      "kind": "government",
+      "x": 27,
+      "y": 61,
+      "subtitle": "Permitting authority",
+      "detail": "City department responsible for permit actions at the exact property. Complete files are targets for owner/authorized-agent representations and staff reliance.",
+      "evidence": [
+        "Permits 15-13675 and 15-14493",
+        "Earlier permits 11-21909 and 11-22119"
+      ],
+      "groups": [
+        "government",
+        "property"
+      ]
+    },
+    {
+      "id": "policecourt",
+      "label": "Police + Municipal Court",
+      "kind": "government",
+      "x": 36,
+      "y": 69,
+      "subtitle": "221 S. Water property user",
+      "detail": "Municipal users of leased parking under the 101 Shoreline agreement—not use of the disputed 615 parcel.",
+      "groups": [
+        "government",
+        "durrill"
+      ]
+    },
+    {
+      "id": "cityattorney",
+      "label": "City Attorney / Manager",
+      "kind": "government",
+      "x": 9,
+      "y": 76,
+      "subtitle": "Records target",
+      "detail": "Potential custodian of legal review or communications. No direct title-deprivation act is presently documented.",
+      "groups": [
+        "government"
+      ]
+    },
+    {
+      "id": "nueces",
+      "label": "Nueces County Clerk",
+      "kind": "government",
+      "x": 9,
+      "y": 46,
+      "subtitle": "Recorder / index custodian",
+      "detail": "Records qualifying instruments and maintains indexes. Recordation is ordinarily ministerial and does not adjudicate ownership.",
+      "groups": [
+        "government",
+        "property"
+      ]
+    },
+    {
+      "id": "cad",
+      "label": "Nueces CAD / tax systems",
+      "kind": "government",
+      "x": 27,
+      "y": 46,
+      "subtitle": "Administrative ownership records",
+      "detail": "Appraisal and tax records can reflect asserted ownership but do not independently establish title.",
+      "groups": [
+        "government",
+        "property"
+      ]
+    },
+    {
+      "id": "dmd",
+      "label": "Downtown Management District",
+      "kind": "government",
+      "x": 45,
+      "y": 61,
+      "subtitle": "Public planning interface",
+      "detail": "Government-adjacent planning records document participation and ownership/address representations within the network.",
+      "groups": [
+        "government",
+        "durrill"
+      ]
+    },
+    {
+      "id": "texas",
+      "label": "State of Texas",
+      "kind": "government",
+      "x": 3,
+      "y": 88,
+      "subtitle": "State records / regulation",
+      "detail": "State-government hub. Expand only through agency-specific records.",
+      "groups": [
+        "government",
+        "archive"
+      ]
+    },
+    {
+      "id": "federal",
+      "label": "U.S. Government",
+      "kind": "government",
+      "x": 11,
+      "y": 95,
+      "subtitle": "Federal records branch",
+      "detail": "Reserved federal-government node. No causal title-deprivation edge is asserted without an agency-specific act and source.",
+      "groups": [
+        "government",
+        "archive"
+      ]
+    },
+    {
+      "id": "txsos",
+      "label": "Texas Secretary of State",
+      "kind": "government",
+      "x": 19,
+      "y": 88,
+      "subtitle": "Corporate filing registry",
+      "detail": "Corporate filing and entity-record custodian. A filing-registry edge establishes record context only.",
+      "groups": [
+        "government",
+        "zorro",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "nmsos",
+      "label": "New Mexico Secretary of State",
+      "kind": "government",
+      "x": 27,
+      "y": 88,
+      "subtitle": "Corporate filing registry",
+      "detail": "Corporate filing registry for the New Mexico branch. It is not alleged to own or control the entities.",
+      "groups": [
+        "government",
+        "zorro",
+        "captures"
+      ]
+    },
+    {
+      "id": "aksos",
+      "label": "Alaska Corporations Section",
+      "kind": "government",
+      "x": 35,
+      "y": 88,
+      "subtitle": "Corporate filing registry",
+      "detail": "Corporate filing registry for the Alaska entities shown in the supplied records.",
+      "groups": [
+        "government",
+        "captures"
+      ]
+    },
+    {
+      "id": "gasos",
+      "label": "Georgia Secretary of State",
+      "kind": "government",
+      "x": 43,
+      "y": 88,
+      "subtitle": "Corporate filing registry",
+      "detail": "Corporate filing registry for the Georgia entity shown in the supplied record.",
+      "groups": [
+        "government",
+        "captures"
+      ]
+    },
+    {
+      "id": "nysdos",
+      "label": "New York Department of State",
+      "kind": "government",
+      "x": 19,
+      "y": 95,
+      "subtitle": "Corporate filing registry",
+      "detail": "Corporate filing registry for New York entity records and foreign registrations represented in the map.",
+      "groups": [
+        "government",
+        "captures",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "casos",
+      "label": "California Secretary of State",
+      "kind": "government",
+      "x": 27,
+      "y": 95,
+      "subtitle": "Corporate filing registry",
+      "detail": "Corporate filing registry for the California branch shown in the supplied record.",
+      "groups": [
+        "government",
+        "captures"
+      ]
+    },
+    {
+      "id": "utdiv",
+      "label": "Utah Division of Corporations",
+      "kind": "government",
+      "x": 35,
+      "y": 95,
+      "subtitle": "Corporate filing registry",
+      "detail": "Corporate filing registry for Elk Haven, LLC. The registry edge establishes filing custody only, not ownership or endorsement.",
+      "groups": [
+        "government",
+        "captures"
+      ]
+    },
+    {
+      "id": "zorro",
+      "label": "Zorro Ranch, LLC",
+      "kind": "company",
+      "x": 66,
+      "y": 4,
+      "subtitle": "Texas filing #0801992148",
+      "detail": "Texas LLC shown in the prior Zorro Ranch graph: filed Sept. 19, 2003; listed In Existence; Janice M. Ahern shown as manager and registered agent.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate",
+        "Prior graph: Texas SOS filing #0801992148"
+      ],
+      "groups": [
+        "zorro",
+        "archive"
+      ]
+    },
+    {
+      "id": "ahern",
+      "label": "Janice M. Ahern",
+      "kind": "person",
+      "x": 74,
+      "y": 4,
+      "subtitle": "Zorro manager/agent · El Lobo organizer/agent",
+      "detail": "Shown in the prior Zorro graph as manager and registered agent of Zorro Ranch. A newly supplied New Mexico filing separately identifies her as organizer and agent of El Lobo de San Francisco LLC at 123 E. Marcy Street, Suite 200.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate",
+        "User-supplied corporate-record screenshot",
+        "El Lobo de San Francisco LLC — NM #4897951"
+      ],
+      "groups": [
+        "zorro",
+        "archive",
+        "captures",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "5900balcones",
+      "label": "5900 Balcones Dr Ste 100",
+      "kind": "address",
+      "x": 66,
+      "y": 10,
+      "subtitle": "Austin, TX 78731",
+      "detail": "Registered-address node shown for Zorro Ranch in the prior graph.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "zorro",
+        "infrastructure",
+        "archive"
+      ]
+    },
+    {
+      "id": "200marcy",
+      "label": "200 W. Marcy St Ste 129",
+      "kind": "address",
+      "x": 74,
+      "y": 10,
+      "subtitle": "Santa Fe, NM 87501",
+      "detail": "Shared-address hub in the prior Zorro graph. Address convergence alone does not establish ownership.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "zorro",
+        "infrastructure",
+        "archive"
+      ]
+    },
+    {
+      "id": "annualsales",
+      "label": "Annual Sales, LLC",
+      "kind": "company",
+      "x": 64,
+      "y": 18,
+      "subtitle": "NM #5470279 · Active",
+      "detail": "New Mexico entity carried forward from the prior Zorro network map as an address/person association to authenticate.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "zorro",
+        "archive"
+      ]
+    },
+    {
+      "id": "delsolpress",
+      "label": "Del Sol Press, LLC",
+      "kind": "company",
+      "x": 72,
+      "y": 18,
+      "subtitle": "NM #5324910 · Active",
+      "detail": "New Mexico entity carried forward from the prior Zorro network map.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "zorro",
+        "archive"
+      ]
+    },
+    {
+      "id": "delsolbooks",
+      "label": "Del Sol Books, LLC",
+      "kind": "company",
+      "x": 80,
+      "y": 18,
+      "subtitle": "NM #5324906 · Active",
+      "detail": "New Mexico entity carried forward from the prior Zorro network map.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "zorro",
+        "archive"
+      ]
+    },
+    {
+      "id": "desertflower",
+      "label": "Desert Flower Company, LLC",
+      "kind": "company",
+      "x": 88,
+      "y": 18,
+      "subtitle": "NM #5066956 · Active",
+      "detail": "New Mexico entity carried forward from the prior Zorro network map.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "zorro",
+        "archive"
+      ]
+    },
+    {
+      "id": "desertflowerhold",
+      "label": "Desert Flower Holding Co., LLC",
+      "kind": "company",
+      "x": 96,
+      "y": 18,
+      "subtitle": "NM #5066997 · Active",
+      "detail": "New Mexico holding-company node carried forward from the prior Zorro network map.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "zorro",
+        "archive"
+      ]
+    },
+    {
+      "id": "annualsalesnm",
+      "label": "Annual Sales of New Mexico, LLC",
+      "kind": "company",
+      "x": 64,
+      "y": 25,
+      "subtitle": "NM #5551684 · Active",
+      "detail": "New Mexico entity carried forward from the prior Zorro network map.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "zorro",
+        "archive"
+      ]
+    },
+    {
+      "id": "ahernlands",
+      "label": "Ahern Lands, LLC",
+      "kind": "company",
+      "x": 72,
+      "y": 25,
+      "subtitle": "NM #5066902 · Active",
+      "detail": "New Mexico land entity carried forward from the prior Zorro network map.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "zorro",
+        "archive"
+      ]
+    },
+    {
+      "id": "hcates",
+      "label": "Howard A. Cates",
+      "kind": "person",
+      "x": 80,
+      "y": 25,
+      "subtitle": "Director in archival branch",
+      "detail": "Director-name node shown in the prior Zorro graph. The underlying company filing must define the exact office and entity.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "zorro",
+        "archive"
+      ]
+    },
+    {
+      "id": "jrcates",
+      "label": "John R. Cates",
+      "kind": "person",
+      "x": 88,
+      "y": 25,
+      "subtitle": "Director in archival branch",
+      "detail": "Director-name node shown in the prior Zorro graph; exact filing to authenticate.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "zorro",
+        "archive"
+      ]
+    },
+    {
+      "id": "jonellecates",
+      "label": "Jonelle A. Cates",
+      "kind": "person",
+      "x": 96,
+      "y": 25,
+      "subtitle": "Director in archival branch",
+      "detail": "Director-name node shown in the prior Zorro graph; exact filing to authenticate.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "zorro",
+        "archive"
+      ]
+    },
+    {
+      "id": "bisaro",
+      "label": "Paul G. Bisaro",
+      "kind": "person",
+      "x": 80,
+      "y": 32,
+      "subtitle": "Director in archival branch",
+      "detail": "Director-name node shown in the prior Zorro graph; exact filing to authenticate.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "zorro",
+        "archive"
+      ]
+    },
+    {
+      "id": "prentice",
+      "label": "Prentice-Hall Corporation System",
+      "kind": "company",
+      "x": 64,
+      "y": 40,
+      "subtitle": "Service-company infrastructure",
+      "detail": "Registered-agent/service-company node shown in prior full-web maps, including use of 80 State Street. Exact subsidiary and jurisdiction names remain distinct.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "infrastructure",
+        "archive",
+        "zorro"
+      ]
+    },
+    {
+      "id": "80state",
+      "label": "80 State Street",
+      "kind": "address",
+      "x": 72,
+      "y": 40,
+      "subtitle": "Albany, NY 12207",
+      "detail": "Shared registered-office/address hub. An address match is not an ownership claim.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate",
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "infrastructure",
+        "archive",
+        "captures",
+        "zorro"
+      ]
+    },
+    {
+      "id": "csc",
+      "label": "Corporation Service Company",
+      "kind": "company",
+      "x": 80,
+      "y": 40,
+      "subtitle": "Registered-agent service",
+      "detail": "Service-company node appearing as agent in supplied records and earlier infrastructure maps.",
+      "evidence": [
+        "User-supplied corporate-record screenshot",
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "infrastructure",
+        "captures",
+        "archive"
+      ]
+    },
+    {
+      "id": "ctcorp",
+      "label": "CT Corporation System",
+      "kind": "company",
+      "x": 88,
+      "y": 40,
+      "subtitle": "Registered-agent service",
+      "detail": "Service-company node appearing as agent in the supplied Union Carbide branch and earlier full-web maps.",
+      "evidence": [
+        "User-supplied corporate-record screenshot",
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "infrastructure",
+        "captures",
+        "archive"
+      ]
+    },
+    {
+      "id": "topeka",
+      "label": "1100 SW Wanamaker Rd Ste 103",
+      "kind": "address",
+      "x": 96,
+      "y": 40,
+      "subtitle": "Topeka, KS 66604",
+      "detail": "Registered-office address shown in the prior master graph for a Corporation Service Company / Prentice-Hall Kansas branch.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "infrastructure",
+        "archive"
+      ]
+    },
+    {
+      "id": "sci",
+      "label": "SCI Partners / SCI 22 Partners",
+      "kind": "company",
+      "x": 64,
+      "y": 47,
+      "subtitle": "Archival agent branch",
+      "detail": "Grouped entity branch shown using CT Corporation System in a prior graph. Exact entity-by-entity filings should be split when authenticated.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "infrastructure",
+        "archive",
+        "zorro"
+      ]
+    },
+    {
+      "id": "sorosbiz",
+      "label": "Soros Business & Management Foundation",
+      "kind": "nonprofit",
+      "x": 72,
+      "y": 47,
+      "subtitle": "Inactive archival entity",
+      "detail": "Entity shown in the prior Zorro map through a c/o or service-address path at 80 State Street. This is not a direct relationship to Zorro Ranch.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "infrastructure",
+        "archive",
+        "zorro"
+      ]
+    },
+    {
+      "id": "nationalra",
+      "label": "National Registered Agents, Inc.",
+      "kind": "company",
+      "x": 80,
+      "y": 47,
+      "subtitle": "Service-company infrastructure",
+      "detail": "Registered-agent node shown in a prior master map using 28 Liberty Street and named as agent of LA-Santa Fe, Inc. in the supplied New Mexico record.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate",
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "infrastructure",
+        "archive",
+        "captures"
+      ]
+    },
+    {
+      "id": "28liberty",
+      "label": "28 Liberty Street",
+      "kind": "address",
+      "x": 88,
+      "y": 47,
+      "subtitle": "New York, NY 10005 · building hub",
+      "detail": "Building-level registered-office hub. An earlier map referenced Suite 200; the new supplied search-result capture shows three entries at 28 Liberty Street without a suite. Suite-level identity must be confirmed from the underlying filings.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate",
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "infrastructure",
+        "archive",
+        "captures"
+      ]
+    },
+    {
+      "id": "prenticeks",
+      "label": "Prentice-Hall System, Kansas, Inc.",
+      "kind": "company",
+      "x": 96,
+      "y": 47,
+      "subtitle": "Kansas service-company branch",
+      "detail": "Jurisdiction-specific service-company node shown in the prior master graph.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "infrastructure",
+        "archive"
+      ]
+    },
+    {
+      "id": "eresident",
+      "label": "eResidentAgent, Inc.",
+      "kind": "company",
+      "x": 64,
+      "y": 54,
+      "subtitle": "Registered-agent service",
+      "detail": "Service-company node carried forward from the prior full-web maps.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "infrastructure",
+        "archive"
+      ]
+    },
+    {
+      "id": "corpcreations",
+      "label": "Corporate Creations Network Inc.",
+      "kind": "company",
+      "x": 72,
+      "y": 54,
+      "subtitle": "Registered-agent service",
+      "detail": "Service-company node carried forward from the prior full-web maps.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "infrastructure",
+        "archive"
+      ]
+    },
+    {
+      "id": "zen",
+      "label": "ZenBusiness Inc.",
+      "kind": "company",
+      "x": 80,
+      "y": 54,
+      "subtitle": "Formation / agent service",
+      "detail": "Formation-service node carried forward from the prior full-web maps.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "infrastructure",
+        "archive"
+      ]
+    },
+    {
+      "id": "uag",
+      "label": "United Agent Group Inc.",
+      "kind": "company",
+      "x": 88,
+      "y": 54,
+      "subtitle": "Registered-agent service",
+      "detail": "Service-company node carried forward from the prior full-web maps.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "infrastructure",
+        "archive"
+      ]
+    },
+    {
+      "id": "southwest",
+      "label": "Southwest Document Services, Inc.",
+      "kind": "company",
+      "x": 96,
+      "y": 54,
+      "subtitle": "Document-service infrastructure",
+      "detail": "Service-company node carried forward from the prior full-web maps.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "infrastructure",
+        "archive"
+      ]
+    },
+    {
+      "id": "diamond",
+      "label": "Diamond Holdings Investment Co.",
+      "kind": "company",
+      "x": 64,
+      "y": 60,
+      "subtitle": "Archival extension",
+      "detail": "Entity shown in a prior master map through a ZenBusiness formation/agent path; exact filing to authenticate.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "archive",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "buckaroo",
+      "label": "Buckaroo Studios",
+      "kind": "company",
+      "x": 72,
+      "y": 60,
+      "subtitle": "Archival extension",
+      "detail": "Entity shown in a prior master map through an eResidentAgent path; exact filing to authenticate.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "archive",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "commonwealth",
+      "label": "Commonwealth Edison",
+      "kind": "company",
+      "x": 80,
+      "y": 60,
+      "subtitle": "Archival service-company route",
+      "detail": "Large-company node shown in a prior master map through a Corporate Creations service path. No direct relationship to Zorro is asserted.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "archive",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "tpg",
+      "label": "TPG Capital BD, LLC",
+      "kind": "company",
+      "x": 88,
+      "y": 60,
+      "subtitle": "Archival service-company route",
+      "detail": "Entity shown in a prior map through a United Agent Group route; exact filing to authenticate.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "archive",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "cii",
+      "label": "C-II Capital Partners",
+      "kind": "company",
+      "x": 96,
+      "y": 60,
+      "subtitle": "Archival service-company route",
+      "detail": "Entity shown in a prior map through a United Agent Group route; exact filing to authenticate.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "archive",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "tedcruz",
+      "label": "Ted Cruz",
+      "kind": "person",
+      "x": 3,
+      "y": 34,
+      "subtitle": "Political node · archival lead",
+      "detail": "Political node carried forward from a prior full-web map. The graph does not infer a relationship beyond a specifically labeled archival route.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "archive",
+        "government"
+      ]
+    },
+    {
+      "id": "abbott",
+      "label": "Greg Abbott",
+      "kind": "government",
+      "x": 11,
+      "y": 34,
+      "subtitle": "Texas government · archival lead",
+      "detail": "Government/political node carried forward from the prior master graph. An underlying filing or official record is required for every edge.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "archive",
+        "government"
+      ]
+    },
+    {
+      "id": "danpatrick",
+      "label": "Dan Patrick",
+      "kind": "government",
+      "x": 19,
+      "y": 34,
+      "subtitle": "Officer-name route · archival lead",
+      "detail": "Person/government node shown in a prior map through a condominium-association officer record. This does not imply involvement in Zorro or 615 matters.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "archive",
+        "government"
+      ]
+    },
+    {
+      "id": "assoc5510",
+      "label": "5510 Avenue G Condominium Assn.",
+      "kind": "nonprofit",
+      "x": 11,
+      "y": 40,
+      "subtitle": "Archival officer branch",
+      "detail": "Association node carried forward from a prior full-web map; exact officer filing to authenticate.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "archive"
+      ]
+    },
+    {
+      "id": "kashroute",
+      "label": "Kash Patel route",
+      "kind": "person",
+      "x": 3,
+      "y": 41,
+      "subtitle": "Address/agent route only",
+      "detail": "Archival route included exactly as a weak address/registration-infrastructure lead. The prior graph expressly did not establish direct collaboration.",
+      "evidence": [
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "archive",
+        "government"
+      ]
+    },
+    {
+      "id": "lollipop",
+      "label": "Lollipop Holdings, L.P.",
+      "kind": "company",
+      "x": 56,
+      "y": 69,
+      "subtitle": "AK #10077172 · dissolved 2024",
+      "detail": "Alaska limited partnership incorporated Jan. 8, 2018 and shown voluntarily dissolved May 29, 2024.",
+      "evidence": [
+        "User-supplied corporate-record screenshot",
+        "Company no. 10077172"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "bensong",
+      "label": "Benjamin Song",
+      "kind": "person",
+      "x": 62,
+      "y": 69,
+      "subtitle": "Limited partner",
+      "detail": "Listed as an inactive limited partner of Lollipop Holdings in the supplied record.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "jasonsong",
+      "label": "Jason Song",
+      "kind": "person",
+      "x": 68,
+      "y": 69,
+      "subtitle": "Limited partner",
+      "detail": "Listed as an inactive limited partner of Lollipop Holdings in the supplied record.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "jinsong",
+      "label": "Jin Song",
+      "kind": "person",
+      "x": 74,
+      "y": 69,
+      "subtitle": "Limited partner",
+      "detail": "Listed as an inactive limited partner of Lollipop Holdings in the supplied record.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "jellybeanllc",
+      "label": "Jelly Bean Management, LLC",
+      "kind": "company",
+      "x": 80,
+      "y": 69,
+      "subtitle": "Lollipop general partner",
+      "detail": "Listed as general partner of Lollipop Holdings. Kept separate from Jelly Bean Management Group, LLC because name similarity alone does not establish identity.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "lmraservices",
+      "label": "LMRA Services, Inc.",
+      "kind": "company",
+      "x": 86,
+      "y": 69,
+      "subtitle": "Shared registered-agent connector",
+      "detail": "Listed as agent of Lollipop Holdings and as agent/registered agent of Elk Haven, LLC in separate supplied records. Kept distinct from LMRA Euro Construction Services, Inc.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "505steese",
+      "label": "505 Old Steese Hwy Ste 122",
+      "kind": "address",
+      "x": 92,
+      "y": 69,
+      "subtitle": "Fairbanks, AK 99701",
+      "detail": "Registered address shown for Lollipop Holdings.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "200w34",
+      "label": "200 W 34th Ave #977",
+      "kind": "address",
+      "x": 98,
+      "y": 69,
+      "subtitle": "Anchorage, AK 99503",
+      "detail": "Mailing address shown for Lollipop Holdings.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "jbmg",
+      "label": "JBMG Sun Valley F4, LLC",
+      "kind": "company",
+      "x": 56,
+      "y": 75,
+      "subtitle": "GA #20231142 · active",
+      "detail": "Georgia domestic LLC incorporated Nov. 18, 2020 and shown Active/Compliance.",
+      "evidence": [
+        "User-supplied corporate-record screenshot",
+        "Company no. 20231142"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "jasonmillerga",
+      "label": "Jason Miller — GA filing",
+      "kind": "person",
+      "x": 62,
+      "y": 75,
+      "subtitle": "JBMG organizer",
+      "detail": "Organizer name shown on the JBMG Sun Valley F4 filing. Kept distinct from the Union Carbide officer-name node pending identity confirmation.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "jellybeangroup",
+      "label": "Jelly Bean Management Group, LLC",
+      "kind": "company",
+      "x": 68,
+      "y": 75,
+      "subtitle": "JBMG registered agent",
+      "detail": "Agent named on the JBMG filing, with a Roswell address. Kept separate from Jelly Bean Management, LLC.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "pobox994",
+      "label": "PO Box 994",
+      "kind": "address",
+      "x": 74,
+      "y": 75,
+      "subtitle": "Roswell, GA 30077",
+      "detail": "Registered address shown for JBMG Sun Valley F4.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "400market",
+      "label": "400 Market Place",
+      "kind": "address",
+      "x": 80,
+      "y": 75,
+      "subtitle": "Roswell, GA 30075",
+      "detail": "Agent address shown for Jelly Bean Management Group, LLC.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "unionak",
+      "label": "Union Carbide Corporation — AK",
+      "kind": "company",
+      "x": 86,
+      "y": 75,
+      "subtitle": "AK #1629F · branch",
+      "detail": "Alaska branch shown in Good Standing, incorporated Jan. 23, 1951, and identified as a branch of the New York corporation.",
+      "evidence": [
+        "User-supplied corporate-record screenshot",
+        "Company no. 1629F"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "unionny",
+      "label": "Union Carbide Corporation — NY",
+      "kind": "company",
+      "x": 92,
+      "y": 75,
+      "subtitle": "Parent corporation shown",
+      "detail": "Parent-jurisdiction node identified in the supplied Alaska branch record.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "seadrift",
+      "label": "7501 State Hwy 185 North",
+      "kind": "address",
+      "x": 98,
+      "y": 75,
+      "subtitle": "Seadrift, TX 77983",
+      "detail": "Registered address shown for the Alaska Union Carbide branch.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "jasonmilleruc",
+      "label": "Jason Miller — Union Carbide filing",
+      "kind": "person",
+      "x": 56,
+      "y": 81,
+      "subtitle": "Secretary + vice president",
+      "detail": "Officer name shown on the Union Carbide Alaska branch record. Kept distinct from the Georgia organizer node pending identity confirmation.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "briantessin",
+      "label": "Brian Tessin",
+      "kind": "person",
+      "x": 62,
+      "y": 81,
+      "subtitle": "Assistant secretary",
+      "detail": "Officer name shown on the Union Carbide Alaska branch record.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "fernandos",
+      "label": "Fernando F. Signorini",
+      "kind": "person",
+      "x": 68,
+      "y": 81,
+      "subtitle": "Director + president",
+      "detail": "Director and president shown on the Union Carbide Alaska branch record.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "heatherlyons",
+      "label": "Heather Lyons",
+      "kind": "person",
+      "x": 74,
+      "y": 81,
+      "subtitle": "Vice president",
+      "detail": "Officer name shown on the Union Carbide Alaska branch record.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "ignaciomolina",
+      "label": "Ignacio Molina",
+      "kind": "person",
+      "x": 80,
+      "y": 81,
+      "subtitle": "Director + treasurer + VP",
+      "detail": "Director/officer name shown on the Union Carbide Alaska branch record.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "8585dairy",
+      "label": "8585 Old Dairy Rd Ste 208",
+      "kind": "address",
+      "x": 86,
+      "y": 81,
+      "subtitle": "Juneau, AK 99801",
+      "detail": "Agent address shown for CT Corporation System in the Union Carbide Alaska record and present in older infrastructure maps.",
+      "evidence": [
+        "User-supplied corporate-record screenshot",
+        "Prior full-web map artifact — underlying filing to authenticate"
+      ],
+      "groups": [
+        "captures",
+        "infrastructure",
+        "archive"
+      ]
+    },
+    {
+      "id": "lmraeuro",
+      "label": "LMRA Euro Construction Services, Inc.",
+      "kind": "company",
+      "x": 92,
+      "y": 81,
+      "subtitle": "NY #4006824 · inactive",
+      "detail": "New York corporation incorporated Oct. 13, 2010 and shown dissolved by proclamation/annulment Aug. 31, 2016.",
+      "evidence": [
+        "User-supplied corporate-record screenshot",
+        "Company no. 4006824"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "1039boston",
+      "label": "1039 Boston Road Management Corp.",
+      "kind": "company",
+      "x": 56,
+      "y": 87,
+      "subtitle": "80 State St search result",
+      "detail": "Entity shown in the supplied search-result capture as using 80 State Street. The result is an address match only.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "1042madison",
+      "label": "1042 Madison Owner, LLC",
+      "kind": "company",
+      "x": 62,
+      "y": 87,
+      "subtitle": "80 State St search result",
+      "detail": "Entity shown in the supplied search-result capture as using 80 State Street. The result is an address match only.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "qpbloom",
+      "label": "QP Bloomington Hotel Property LLC",
+      "kind": "company",
+      "x": 68,
+      "y": 87,
+      "subtitle": "80 State St search result",
+      "detail": "Foreign/branch entity shown in the supplied search-result capture as using 80 State Street. The result is an address match only.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "newsflareca",
+      "label": "Newsflare Inc. — California",
+      "kind": "company",
+      "x": 74,
+      "y": 87,
+      "subtitle": "CA #6410596 · active branch",
+      "detail": "California out-of-state stock corporation incorporated Aug. 24, 2017 and shown as a branch of Newsflare Inc. of Delaware.",
+      "evidence": [
+        "User-supplied corporate-record screenshot",
+        "Company no. 6410596; previous no. 4050116"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "newsflarede",
+      "label": "Newsflare Inc. — Delaware",
+      "kind": "company",
+      "x": 80,
+      "y": 87,
+      "subtitle": "Parent corporation shown",
+      "detail": "Parent-jurisdiction node identified in the supplied California branch record.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "csclawyers",
+      "label": "CSC-Lawyers Incorporating Service",
+      "kind": "company",
+      "x": 86,
+      "y": 87,
+      "subtitle": "California agent service name",
+      "detail": "California agent-service name shown in the Newsflare record as the name under which Corporation Service Company does business in California.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "joncornwell",
+      "label": "Jon Cornwell",
+      "kind": "person",
+      "x": 92,
+      "y": 87,
+      "subtitle": "Newsflare CEO / secretary / CFO",
+      "detail": "Officer name and roles shown on the supplied Newsflare California branch record.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "8665santa",
+      "label": "8665 Santa Monica Blvd",
+      "kind": "address",
+      "x": 98,
+      "y": 87,
+      "subtitle": "West Hollywood, CA 90069",
+      "detail": "Registered address shown for Newsflare Inc.'s California branch.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "2710gateway",
+      "label": "2710 Gateway Oaks Dr Ste 150N",
+      "kind": "address",
+      "x": 56,
+      "y": 93,
+      "subtitle": "Sacramento, CA 95833",
+      "detail": "Shared service address appearing in the supplied Newsflare and Google Compare records.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "googlenm",
+      "label": "Google Compare Mortgages Inc. — NM",
+      "kind": "company",
+      "x": 62,
+      "y": 93,
+      "subtitle": "NM #4639502 · final report",
+      "detail": "New Mexico foreign-profit branch incorporated Aug. 14, 2012 and shown at Final Report status.",
+      "evidence": [
+        "User-supplied corporate-record screenshot",
+        "Company no. 4639502"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "googleca",
+      "label": "Google Compare Mortgages Inc. — CA",
+      "kind": "company",
+      "x": 68,
+      "y": 93,
+      "subtitle": "Parent corporation shown",
+      "detail": "California parent-jurisdiction node identified in the supplied New Mexico branch record.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "123marcy",
+      "label": "123 E Marcy St Ste 101",
+      "kind": "address",
+      "x": 74,
+      "y": 93,
+      "subtitle": "Santa Fe, NM 87501",
+      "detail": "Suite-specific agent/head-office address shown in the supplied Google Compare record. Kept distinct from Suite 200 and the building-level 123 E. Marcy address.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "1600amp",
+      "label": "1600 Amphitheatre Parkway",
+      "kind": "address",
+      "x": 80,
+      "y": 93,
+      "subtitle": "Mountain View, CA 94043",
+      "detail": "Mailing address shown in the supplied Google Compare record.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "charlesg",
+      "label": "Charles Gianfrate",
+      "kind": "person",
+      "x": 86,
+      "y": 93,
+      "subtitle": "Director / former VP",
+      "detail": "Director and inactive vice-president roles shown in the supplied Google Compare record.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "kennethyi",
+      "label": "Kenneth H. Yi",
+      "kind": "person",
+      "x": 92,
+      "y": 93,
+      "subtitle": "President + secretary",
+      "detail": "Officer roles shown in the supplied Google Compare record.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "roberta",
+      "label": "Robert E. Andreatta",
+      "kind": "person",
+      "x": 98,
+      "y": 93,
+      "subtitle": "Chief financial officer",
+      "detail": "Officer role shown in the supplied Google Compare record.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "francisw",
+      "label": "Francis Nicolas Weng Kan",
+      "kind": "person",
+      "x": 62,
+      "y": 98,
+      "subtitle": "Former director + president",
+      "detail": "Inactive director/president roles shown in the supplied Google Compare record.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "richardb",
+      "label": "Richard Brough",
+      "kind": "person",
+      "x": 70,
+      "y": 98,
+      "subtitle": "Former treasurer + director",
+      "detail": "Inactive treasurer/director roles shown in the supplied Google Compare record.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "422carriage",
+      "label": "422 Carriage Drive",
+      "kind": "address",
+      "x": 50,
+      "y": 64,
+      "subtitle": "Sequim, WA 98382",
+      "detail": "Address shown for the Mark-Gross Family Trust, the California Main Corral branch, and associated trustee/manager entries in the supplied search-results capture.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "maincorralca",
+      "label": "Main Corral, LLC — California",
+      "kind": "company",
+      "x": 56,
+      "y": 64,
+      "subtitle": "Foreign/branch record · Oct. 3, 2019",
+      "detail": "California branch result associated with the Mark-Gross Family Trust trustees and 422 Carriage Drive. Exact parent-jurisdiction linkage should be confirmed from the underlying filing.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "elkhaven",
+      "label": "Elk Haven, LLC",
+      "kind": "company",
+      "x": 62,
+      "y": 64,
+      "subtitle": "UT #11475053-0160 · active",
+      "detail": "Utah domestic LLC incorporated Sept. 25, 2019. The supplied record lists the Mark-Gross Family Trust as member and LMRA Services, Inc. as agent/registered agent.",
+      "evidence": [
+        "User-supplied corporate-record screenshot",
+        "Utah company no. 11475053-0160"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "markgrosstrust",
+      "label": "The Mark-Gross Family Trust",
+      "kind": "nonprofit",
+      "x": 68,
+      "y": 64,
+      "subtitle": "Member / trust node",
+      "detail": "Trust named as a member of Elk Haven, LLC and associated through trustee-member or manager records with ForKids, LLC and Main Corral, LLC. Trust membership does not establish ownership beyond the exact filing role shown.",
+      "evidence": [
+        "User-supplied corporate-record screenshot",
+        "Trust instrument date referenced in results: Feb. 21, 1991"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "kennethgross",
+      "label": "Kenneth G. Gross",
+      "kind": "person",
+      "x": 74,
+      "y": 64,
+      "subtitle": "Trustee of Mark-Gross Family Trust",
+      "detail": "Named in the supplied search results as trustee/member in ForKids and Main Corral records and as trustee/manager in a California Main Corral branch record.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "lesliemark",
+      "label": "Leslie Alison Mark",
+      "kind": "person",
+      "x": 80,
+      "y": 64,
+      "subtitle": "Trustee of Mark-Gross Family Trust",
+      "detail": "Named in the supplied search results as trustee/member in ForKids and Main Corral records and as trustee/manager in a California Main Corral branch record.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "forkids",
+      "label": "ForKids, LLC",
+      "kind": "company",
+      "x": 86,
+      "y": 64,
+      "subtitle": "Alaska · Sept. 24, 2010",
+      "detail": "Alaska entity appearing in the supplied search results with Kenneth G. Gross and Leslie Alison Mark identified in trustee/member roles.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "maincorralak",
+      "label": "Main Corral, LLC — Alaska",
+      "kind": "company",
+      "x": 92,
+      "y": 64,
+      "subtitle": "Alaska · Sept. 24, 2010",
+      "detail": "Alaska entity appearing in the supplied search results with Kenneth G. Gross and Leslie Alison Mark identified in member roles.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures"
+      ]
+    },
+    {
+      "id": "1337orem",
+      "label": "1337 E. 750 N.",
+      "kind": "address",
+      "x": 98,
+      "y": 64,
+      "subtitle": "Orem, UT 84097",
+      "detail": "Registered address shown for Elk Haven, LLC in the supplied Utah record.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "ellobo",
+      "label": "El Lobo de San Francisco LLC",
+      "kind": "company",
+      "x": 88,
+      "y": 32,
+      "subtitle": "NM #4897951 · active",
+      "detail": "New Mexico LLC incorporated April 16, 2014. The supplied filing names Janice M. Ahern as organizer and agent and gives 123 E. Marcy Street, Suite 200 as the agent address.",
+      "evidence": [
+        "User-supplied corporate-record screenshot",
+        "New Mexico company no. 4897951"
+      ],
+      "groups": [
+        "zorro",
+        "captures"
+      ]
+    },
+    {
+      "id": "123marcy200",
+      "label": "123 E Marcy St Ste 200",
+      "kind": "address",
+      "x": 96,
+      "y": 32,
+      "subtitle": "Santa Fe, NM 87501",
+      "detail": "Suite-specific agent address shown for Janice M. Ahern through El Lobo de San Francisco LLC. Kept distinct from Suite 101.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "zorro",
+        "captures",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "436sanfran",
+      "label": "436 W San Francisco St",
+      "kind": "address",
+      "x": 88,
+      "y": 36,
+      "subtitle": "Santa Fe, NM 87501",
+      "detail": "Head-office address shown for El Lobo de San Francisco LLC.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "zorro",
+        "captures",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "123marcybase",
+      "label": "123 E Marcy Street",
+      "kind": "address",
+      "x": 96,
+      "y": 36,
+      "subtitle": "Santa Fe, NM 87501 · building hub",
+      "detail": "Building-level address hub. Suite 101 and Suite 200 remain separate unit nodes; sharing this building does not establish common ownership or control.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "zorro",
+        "captures",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "lasantafe",
+      "label": "LA-Santa Fe, Inc.",
+      "kind": "company",
+      "x": 56,
+      "y": 58,
+      "subtitle": "NM #2171668 · final report",
+      "detail": "New Mexico domestic profit corporation incorporated May 15, 2001. National Registered Agents, Inc. is shown as agent at 123 E. Marcy. Listed officers: Bruce G. Goren, Osias Goren, Scott Hendrickson and Todd Okum.",
+      "evidence": [
+        "User-supplied corporate-record screenshot",
+        "New Mexico company no. 2171668"
+      ],
+      "groups": [
+        "captures",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "openainyllc",
+      "label": "OPENAI L.L.C. — New York",
+      "kind": "company",
+      "x": 80,
+      "y": 98,
+      "subtitle": "Inactive branch · Apr. 23, 2025",
+      "detail": "Supplied search-result capture shows an inactive New York branch entry named OPENAI L.L.C. at 28 Liberty Street, New York, NY 10005. The underlying New York filing remains the controlling source.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "openaiopco",
+      "label": "OPENAI OPCO, LLC — New York",
+      "kind": "company",
+      "x": 89,
+      "y": 98,
+      "subtitle": "Branch entry · Sept. 28, 2025",
+      "detail": "Supplied search-result capture shows a New York branch entry named OPENAI OPCO, LLC at 28 Liberty Street, New York, NY 10005. The capture does not itself establish a parent, ownership, or control relationship with similarly named entities.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "openaideploy",
+      "label": "The OpenAI Deployment Company, LLC",
+      "kind": "company",
+      "x": 98,
+      "y": 98,
+      "subtitle": "New York branch · June 6, 2025",
+      "detail": "Supplied search-result capture shows a New York branch entry for The OpenAI Deployment Company, LLC at 28 Liberty Street, New York, NY 10005. The underlying filing should be retrieved for exact status and entity identifiers.",
+      "evidence": [
+        "User-supplied corporate-record screenshot"
+      ],
+      "groups": [
+        "captures",
+        "infrastructure"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "from": "ward",
+      "to": "church",
+      "label": "1979 conveyance",
+      "status": "recorded",
+      "year": "1979"
+    },
+    {
+      "from": "church",
+      "to": "gap",
+      "label": "required transfer",
+      "status": "missing"
+    },
+    {
+      "from": "gap",
+      "to": "devfund",
+      "label": "authority unproven",
+      "status": "missing"
+    },
+    {
+      "from": "devfund",
+      "to": "beecroft",
+      "label": "Doc. 840822",
+      "status": "recorded",
+      "year": "1993"
+    },
+    {
+      "from": "beecroft",
+      "to": "laterchain",
+      "label": "downstream chain",
+      "status": "lead"
+    },
+    {
+      "from": "laterchain",
+      "to": "dgct",
+      "label": "later ownership chronology",
+      "status": "lead"
+    },
+    {
+      "from": "dgct",
+      "to": "615",
+      "label": "claimed property interest",
+      "status": "lead",
+      "year": "2015"
+    },
+    {
+      "from": "durrillprops",
+      "to": "615",
+      "label": "business address / property network",
+      "status": "recorded"
+    },
+    {
+      "from": "durrillprops",
+      "to": "foundation",
+      "label": "operated foundation",
+      "status": "verified"
+    },
+    {
+      "from": "durrill",
+      "to": "durrillprops",
+      "label": "business operation",
+      "status": "verified"
+    },
+    {
+      "from": "durrill",
+      "to": "foundation",
+      "label": "president / associated",
+      "status": "recorded"
+    },
+    {
+      "from": "shoreline",
+      "to": "615",
+      "label": "vendor address",
+      "status": "verified"
+    },
+    {
+      "from": "durrill",
+      "to": "shoreline",
+      "label": "ownership / stake record",
+      "status": "recorded"
+    },
+    {
+      "from": "city",
+      "to": "shoreline",
+      "label": "lease + recurring payments",
+      "status": "verified",
+      "year": "2021–25"
+    },
+    {
+      "from": "policecourt",
+      "to": "shoreline",
+      "label": "221 S. Water parking use",
+      "status": "verified"
+    },
+    {
+      "from": "city",
+      "to": "durrillprops",
+      "label": "vendor / rental payments",
+      "status": "verified",
+      "year": "2024"
+    },
+    {
+      "from": "farms",
+      "to": "city",
+      "label": "rezoning approval",
+      "status": "verified",
+      "year": "2016"
+    },
+    {
+      "from": "foundation",
+      "to": "council",
+      "label": "rezoning action",
+      "status": "verified",
+      "year": "2019"
+    },
+    {
+      "from": "guajardo",
+      "to": "council",
+      "label": "official role / motion",
+      "status": "verified",
+      "year": "2019"
+    },
+    {
+      "from": "durrill",
+      "to": "guajardo",
+      "label": "campaign contribution",
+      "status": "verified",
+      "year": "2025"
+    },
+    {
+      "from": "foundation",
+      "to": "guajardo",
+      "label": "civic-project appearance",
+      "status": "recorded",
+      "year": "2024"
+    },
+    {
+      "from": "devservices",
+      "to": "615",
+      "label": "permits / regulatory action",
+      "status": "verified",
+      "year": "2011–16"
+    },
+    {
+      "from": "cityattorney",
+      "to": "615",
+      "label": "communications / review target",
+      "status": "lead"
+    },
+    {
+      "from": "nueces",
+      "to": "devfund",
+      "label": "recorded 1993 instrument",
+      "status": "recorded"
+    },
+    {
+      "from": "nueces",
+      "to": "615",
+      "label": "official property indexes",
+      "status": "recorded"
+    },
+    {
+      "from": "cad",
+      "to": "615",
+      "label": "appraisal / tax record",
+      "status": "recorded"
+    },
+    {
+      "from": "durrill",
+      "to": "dmd",
+      "label": "planning participation",
+      "status": "verified"
+    },
+    {
+      "from": "city",
+      "to": "council",
+      "label": "municipal authority",
+      "status": "verified"
+    },
+    {
+      "from": "city",
+      "to": "devservices",
+      "label": "department",
+      "status": "verified"
+    },
+    {
+      "from": "city",
+      "to": "cityattorney",
+      "label": "offices",
+      "status": "verified"
+    },
+    {
+      "from": "city",
+      "to": "policecourt",
+      "label": "municipal operations",
+      "status": "verified"
+    },
+    {
+      "from": "firstev",
+      "to": "olivechurch",
+      "label": "church succession / association",
+      "status": "lead"
+    },
+    {
+      "from": "olivechurch",
+      "to": "howard",
+      "label": "archival church branch",
+      "status": "lead"
+    },
+    {
+      "from": "howard",
+      "to": "cma",
+      "label": "nonprofit branch",
+      "status": "lead"
+    },
+    {
+      "from": "cma",
+      "to": "foundation",
+      "label": "deed / foundation lead",
+      "status": "lead"
+    },
+    {
+      "from": "oliveacq",
+      "to": "olivechurch",
+      "label": "name similarity only",
+      "status": "lead"
+    },
+    {
+      "from": "oliveacq",
+      "to": "rai",
+      "label": "organizer + registered agent",
+      "status": "verified",
+      "year": "2025"
+    },
+    {
+      "from": "rai",
+      "to": "30gould",
+      "label": "registered address",
+      "status": "verified"
+    },
+    {
+      "from": "30gould",
+      "to": "national",
+      "label": "normalized-address expansion",
+      "status": "recorded"
+    },
+    {
+      "from": "southern",
+      "to": "7406",
+      "label": "recorded-document branch",
+      "status": "lead",
+      "year": "2015"
+    },
+    {
+      "from": "7406",
+      "to": "paul",
+      "label": "requested connection — authenticate",
+      "status": "missing"
+    },
+    {
+      "from": "southern",
+      "to": "615",
+      "label": "broader property-map branch",
+      "status": "lead"
+    },
+    {
+      "from": "texas",
+      "to": "nueces",
+      "label": "state/local record framework",
+      "status": "recorded"
+    },
+    {
+      "from": "texas",
+      "to": "cad",
+      "label": "state appraisal framework",
+      "status": "recorded"
+    },
+    {
+      "from": "federal",
+      "to": "national",
+      "label": "federal records expansion",
+      "status": "lead"
+    },
+    {
+      "from": "zorro",
+      "to": "ahern",
+      "label": "manager + registered agent",
+      "status": "lead"
+    },
+    {
+      "from": "zorro",
+      "to": "5900balcones",
+      "label": "registered address",
+      "status": "lead"
+    },
+    {
+      "from": "ahern",
+      "to": "200marcy",
+      "label": "address shown",
+      "status": "lead"
+    },
+    {
+      "from": "zorro",
+      "to": "txsos",
+      "label": "filing #0801992148",
+      "status": "lead",
+      "year": "2003"
+    },
+    {
+      "from": "annualsales",
+      "to": "ahern",
+      "label": "archival person association",
+      "status": "lead"
+    },
+    {
+      "from": "delsolpress",
+      "to": "ahern",
+      "label": "archival person association",
+      "status": "lead"
+    },
+    {
+      "from": "delsolbooks",
+      "to": "ahern",
+      "label": "archival person association",
+      "status": "lead"
+    },
+    {
+      "from": "desertflower",
+      "to": "ahern",
+      "label": "archival person association",
+      "status": "lead"
+    },
+    {
+      "from": "desertflowerhold",
+      "to": "ahern",
+      "label": "archival person association",
+      "status": "lead"
+    },
+    {
+      "from": "annualsalesnm",
+      "to": "ahern",
+      "label": "archival person association",
+      "status": "lead"
+    },
+    {
+      "from": "ahernlands",
+      "to": "ahern",
+      "label": "archival person association",
+      "status": "lead"
+    },
+    {
+      "from": "annualsales",
+      "to": "200marcy",
+      "label": "shared address in prior map",
+      "status": "lead"
+    },
+    {
+      "from": "delsolpress",
+      "to": "200marcy",
+      "label": "shared address in prior map",
+      "status": "lead"
+    },
+    {
+      "from": "delsolbooks",
+      "to": "200marcy",
+      "label": "shared address in prior map",
+      "status": "lead"
+    },
+    {
+      "from": "desertflower",
+      "to": "200marcy",
+      "label": "shared address in prior map",
+      "status": "lead"
+    },
+    {
+      "from": "desertflowerhold",
+      "to": "200marcy",
+      "label": "shared address in prior map",
+      "status": "lead"
+    },
+    {
+      "from": "annualsalesnm",
+      "to": "200marcy",
+      "label": "shared address in prior map",
+      "status": "lead"
+    },
+    {
+      "from": "ahernlands",
+      "to": "200marcy",
+      "label": "shared address in prior map",
+      "status": "lead"
+    },
+    {
+      "from": "annualsales",
+      "to": "nmsos",
+      "label": "NM filing registry",
+      "status": "lead"
+    },
+    {
+      "from": "delsolpress",
+      "to": "nmsos",
+      "label": "NM filing registry",
+      "status": "lead"
+    },
+    {
+      "from": "delsolbooks",
+      "to": "nmsos",
+      "label": "NM filing registry",
+      "status": "lead"
+    },
+    {
+      "from": "desertflower",
+      "to": "nmsos",
+      "label": "NM filing registry",
+      "status": "lead"
+    },
+    {
+      "from": "desertflowerhold",
+      "to": "nmsos",
+      "label": "NM filing registry",
+      "status": "lead"
+    },
+    {
+      "from": "annualsalesnm",
+      "to": "nmsos",
+      "label": "NM filing registry",
+      "status": "lead"
+    },
+    {
+      "from": "ahernlands",
+      "to": "nmsos",
+      "label": "NM filing registry",
+      "status": "lead"
+    },
+    {
+      "from": "ahern",
+      "to": "hcates",
+      "label": "director branch in prior map",
+      "status": "lead"
+    },
+    {
+      "from": "ahern",
+      "to": "jrcates",
+      "label": "director branch in prior map",
+      "status": "lead"
+    },
+    {
+      "from": "ahern",
+      "to": "jonellecates",
+      "label": "director branch in prior map",
+      "status": "lead"
+    },
+    {
+      "from": "ahern",
+      "to": "bisaro",
+      "label": "director branch in prior map",
+      "status": "lead"
+    },
+    {
+      "from": "prentice",
+      "to": "80state",
+      "label": "service address",
+      "status": "lead"
+    },
+    {
+      "from": "sci",
+      "to": "ctcorp",
+      "label": "registered-agent branch",
+      "status": "lead"
+    },
+    {
+      "from": "sorosbiz",
+      "to": "80state",
+      "label": "c/o or service address",
+      "status": "lead"
+    },
+    {
+      "from": "nationalra",
+      "to": "28liberty",
+      "label": "registered address",
+      "status": "lead"
+    },
+    {
+      "from": "prenticeks",
+      "to": "topeka",
+      "label": "registered address",
+      "status": "lead"
+    },
+    {
+      "from": "prenticeks",
+      "to": "csc",
+      "label": "agent/service-company route",
+      "status": "lead"
+    },
+    {
+      "from": "diamond",
+      "to": "zen",
+      "label": "formation / agent route",
+      "status": "lead"
+    },
+    {
+      "from": "buckaroo",
+      "to": "eresident",
+      "label": "registered-agent route",
+      "status": "lead"
+    },
+    {
+      "from": "commonwealth",
+      "to": "corpcreations",
+      "label": "service-company route",
+      "status": "lead"
+    },
+    {
+      "from": "tpg",
+      "to": "uag",
+      "label": "registered-agent route",
+      "status": "lead"
+    },
+    {
+      "from": "cii",
+      "to": "uag",
+      "label": "registered-agent route",
+      "status": "lead"
+    },
+    {
+      "from": "danpatrick",
+      "to": "assoc5510",
+      "label": "officer name in prior map",
+      "status": "lead"
+    },
+    {
+      "from": "kashroute",
+      "to": "national",
+      "label": "address/agent route only",
+      "status": "lead"
+    },
+    {
+      "from": "tedcruz",
+      "to": "texas",
+      "label": "political/government context",
+      "status": "lead"
+    },
+    {
+      "from": "abbott",
+      "to": "texas",
+      "label": "state-government role",
+      "status": "recorded"
+    },
+    {
+      "from": "lollipop",
+      "to": "bensong",
+      "label": "limited partner",
+      "status": "recorded"
+    },
+    {
+      "from": "lollipop",
+      "to": "jasonsong",
+      "label": "limited partner",
+      "status": "recorded"
+    },
+    {
+      "from": "lollipop",
+      "to": "jinsong",
+      "label": "limited partner",
+      "status": "recorded"
+    },
+    {
+      "from": "lollipop",
+      "to": "jellybeanllc",
+      "label": "general partner",
+      "status": "recorded"
+    },
+    {
+      "from": "lollipop",
+      "to": "lmraservices",
+      "label": "agent",
+      "status": "recorded"
+    },
+    {
+      "from": "lollipop",
+      "to": "505steese",
+      "label": "registered address",
+      "status": "recorded"
+    },
+    {
+      "from": "lollipop",
+      "to": "200w34",
+      "label": "mailing address",
+      "status": "recorded"
+    },
+    {
+      "from": "lollipop",
+      "to": "aksos",
+      "label": "Alaska filing registry",
+      "status": "recorded"
+    },
+    {
+      "from": "jbmg",
+      "to": "jasonmillerga",
+      "label": "organizer",
+      "status": "recorded"
+    },
+    {
+      "from": "jbmg",
+      "to": "jellybeangroup",
+      "label": "registered agent",
+      "status": "recorded"
+    },
+    {
+      "from": "jbmg",
+      "to": "pobox994",
+      "label": "registered address",
+      "status": "recorded"
+    },
+    {
+      "from": "jellybeangroup",
+      "to": "400market",
+      "label": "agent address",
+      "status": "recorded"
+    },
+    {
+      "from": "jbmg",
+      "to": "gasos",
+      "label": "Georgia filing registry",
+      "status": "recorded"
+    },
+    {
+      "from": "jellybeanllc",
+      "to": "jellybeangroup",
+      "label": "name variant only — identity unresolved",
+      "status": "lead"
+    },
+    {
+      "from": "unionak",
+      "to": "unionny",
+      "label": "branch of",
+      "status": "recorded"
+    },
+    {
+      "from": "unionak",
+      "to": "ctcorp",
+      "label": "registered agent",
+      "status": "recorded"
+    },
+    {
+      "from": "ctcorp",
+      "to": "8585dairy",
+      "label": "agent address",
+      "status": "recorded"
+    },
+    {
+      "from": "unionak",
+      "to": "seadrift",
+      "label": "registered address",
+      "status": "recorded"
+    },
+    {
+      "from": "unionak",
+      "to": "jasonmilleruc",
+      "label": "secretary + vice president",
+      "status": "recorded"
+    },
+    {
+      "from": "unionak",
+      "to": "briantessin",
+      "label": "assistant secretary",
+      "status": "recorded"
+    },
+    {
+      "from": "unionak",
+      "to": "fernandos",
+      "label": "director + president",
+      "status": "recorded"
+    },
+    {
+      "from": "unionak",
+      "to": "heatherlyons",
+      "label": "vice president",
+      "status": "recorded"
+    },
+    {
+      "from": "unionak",
+      "to": "ignaciomolina",
+      "label": "director + treasurer + VP",
+      "status": "recorded"
+    },
+    {
+      "from": "unionak",
+      "to": "aksos",
+      "label": "Alaska filing registry",
+      "status": "recorded"
+    },
+    {
+      "from": "jasonmillerga",
+      "to": "jasonmilleruc",
+      "label": "same name — identity unresolved",
+      "status": "lead"
+    },
+    {
+      "from": "lmraeuro",
+      "to": "csc",
+      "label": "registered agent",
+      "status": "recorded"
+    },
+    {
+      "from": "lmraeuro",
+      "to": "80state",
+      "label": "registered address",
+      "status": "recorded"
+    },
+    {
+      "from": "lmraeuro",
+      "to": "nysdos",
+      "label": "New York filing registry",
+      "status": "recorded"
+    },
+    {
+      "from": "lmraservices",
+      "to": "lmraeuro",
+      "label": "LMRA name prefix only",
+      "status": "lead"
+    },
+    {
+      "from": "1039boston",
+      "to": "80state",
+      "label": "search-result address match",
+      "status": "recorded"
+    },
+    {
+      "from": "1042madison",
+      "to": "80state",
+      "label": "search-result address match",
+      "status": "recorded"
+    },
+    {
+      "from": "qpbloom",
+      "to": "80state",
+      "label": "search-result address match",
+      "status": "recorded"
+    },
+    {
+      "from": "newsflareca",
+      "to": "newsflarede",
+      "label": "branch of",
+      "status": "recorded"
+    },
+    {
+      "from": "newsflareca",
+      "to": "8665santa",
+      "label": "registered address",
+      "status": "recorded"
+    },
+    {
+      "from": "newsflareca",
+      "to": "csclawyers",
+      "label": "registered agent",
+      "status": "recorded"
+    },
+    {
+      "from": "newsflareca",
+      "to": "joncornwell",
+      "label": "CEO + secretary + CFO",
+      "status": "recorded"
+    },
+    {
+      "from": "newsflareca",
+      "to": "casos",
+      "label": "California filing registry",
+      "status": "recorded"
+    },
+    {
+      "from": "csclawyers",
+      "to": "csc",
+      "label": "CSC California service name",
+      "status": "recorded"
+    },
+    {
+      "from": "csclawyers",
+      "to": "2710gateway",
+      "label": "agent address",
+      "status": "recorded"
+    },
+    {
+      "from": "newsflareca",
+      "to": "80state",
+      "label": "search-result address match",
+      "status": "recorded"
+    },
+    {
+      "from": "googlenm",
+      "to": "googleca",
+      "label": "branch of",
+      "status": "recorded"
+    },
+    {
+      "from": "googlenm",
+      "to": "csc",
+      "label": "registered agent",
+      "status": "recorded"
+    },
+    {
+      "from": "googlenm",
+      "to": "2710gateway",
+      "label": "registered address shown",
+      "status": "recorded"
+    },
+    {
+      "from": "googlenm",
+      "to": "123marcy",
+      "label": "agent / head-office address",
+      "status": "recorded"
+    },
+    {
+      "from": "googlenm",
+      "to": "1600amp",
+      "label": "mailing address",
+      "status": "recorded"
+    },
+    {
+      "from": "googlenm",
+      "to": "charlesg",
+      "label": "director / former VP",
+      "status": "recorded"
+    },
+    {
+      "from": "googlenm",
+      "to": "kennethyi",
+      "label": "president + secretary",
+      "status": "recorded"
+    },
+    {
+      "from": "googlenm",
+      "to": "roberta",
+      "label": "chief financial officer",
+      "status": "recorded"
+    },
+    {
+      "from": "googlenm",
+      "to": "francisw",
+      "label": "former director + president",
+      "status": "recorded"
+    },
+    {
+      "from": "googlenm",
+      "to": "richardb",
+      "label": "former treasurer + director",
+      "status": "recorded"
+    },
+    {
+      "from": "googlenm",
+      "to": "nmsos",
+      "label": "New Mexico filing registry",
+      "status": "recorded"
+    },
+    {
+      "from": "elkhaven",
+      "to": "markgrosstrust",
+      "label": "member",
+      "status": "recorded"
+    },
+    {
+      "from": "elkhaven",
+      "to": "lmraservices",
+      "label": "agent + registered agent",
+      "status": "recorded"
+    },
+    {
+      "from": "elkhaven",
+      "to": "1337orem",
+      "label": "registered address",
+      "status": "recorded"
+    },
+    {
+      "from": "elkhaven",
+      "to": "utdiv",
+      "label": "Utah filing registry",
+      "status": "recorded"
+    },
+    {
+      "from": "markgrosstrust",
+      "to": "422carriage",
+      "label": "address shown in search result",
+      "status": "recorded"
+    },
+    {
+      "from": "kennethgross",
+      "to": "markgrosstrust",
+      "label": "trustee",
+      "status": "recorded"
+    },
+    {
+      "from": "lesliemark",
+      "to": "markgrosstrust",
+      "label": "trustee",
+      "status": "recorded"
+    },
+    {
+      "from": "kennethgross",
+      "to": "forkids",
+      "label": "trustee / member entry",
+      "status": "recorded"
+    },
+    {
+      "from": "lesliemark",
+      "to": "forkids",
+      "label": "trustee / member entry",
+      "status": "recorded"
+    },
+    {
+      "from": "kennethgross",
+      "to": "maincorralak",
+      "label": "trustee / member entry",
+      "status": "recorded"
+    },
+    {
+      "from": "lesliemark",
+      "to": "maincorralak",
+      "label": "member entry",
+      "status": "recorded"
+    },
+    {
+      "from": "kennethgross",
+      "to": "maincorralca",
+      "label": "trustee / manager entry",
+      "status": "recorded"
+    },
+    {
+      "from": "lesliemark",
+      "to": "maincorralca",
+      "label": "trustee / manager entry",
+      "status": "recorded"
+    },
+    {
+      "from": "maincorralca",
+      "to": "422carriage",
+      "label": "address shown",
+      "status": "recorded"
+    },
+    {
+      "from": "maincorralak",
+      "to": "maincorralca",
+      "label": "same entity name — branch link to confirm",
+      "status": "lead"
+    },
+    {
+      "from": "ahern",
+      "to": "ellobo",
+      "label": "organizer + agent",
+      "status": "recorded",
+      "year": "2014"
+    },
+    {
+      "from": "ellobo",
+      "to": "123marcy200",
+      "label": "agent address",
+      "status": "recorded"
+    },
+    {
+      "from": "ellobo",
+      "to": "436sanfran",
+      "label": "head-office address",
+      "status": "recorded"
+    },
+    {
+      "from": "ellobo",
+      "to": "nmsos",
+      "label": "New Mexico filing registry",
+      "status": "recorded"
+    },
+    {
+      "from": "123marcy200",
+      "to": "123marcybase",
+      "label": "suite within building",
+      "status": "recorded"
+    },
+    {
+      "from": "123marcy",
+      "to": "123marcybase",
+      "label": "suite within building",
+      "status": "recorded"
+    },
+    {
+      "from": "lasantafe",
+      "to": "nationalra",
+      "label": "registered agent",
+      "status": "recorded"
+    },
+    {
+      "from": "lasantafe",
+      "to": "123marcybase",
+      "label": "agent address",
+      "status": "recorded"
+    },
+    {
+      "from": "lasantafe",
+      "to": "nmsos",
+      "label": "New Mexico filing registry",
+      "status": "recorded"
+    },
+    {
+      "from": "openainyllc",
+      "to": "28liberty",
+      "label": "search-result address match",
+      "status": "recorded",
+      "year": "2025"
+    },
+    {
+      "from": "openainyllc",
+      "to": "nysdos",
+      "label": "New York filing registry",
+      "status": "recorded"
+    },
+    {
+      "from": "openaiopco",
+      "to": "28liberty",
+      "label": "search-result address match",
+      "status": "recorded",
+      "year": "2025"
+    },
+    {
+      "from": "openaiopco",
+      "to": "nysdos",
+      "label": "New York filing registry",
+      "status": "recorded"
+    },
+    {
+      "from": "openaideploy",
+      "to": "28liberty",
+      "label": "search-result address match",
+      "status": "recorded",
+      "year": "2025"
+    },
+    {
+      "from": "openaideploy",
+      "to": "nysdos",
+      "label": "New York filing registry",
+      "status": "recorded"
+    }
+  ],
+  "audit": {
+    "sourceProject": "appgprj_6a9889394c048191a3dfeadde7de68a0",
+    "sourceCommit": "9c6be6d74c15a339dbe49eca75a63fc2306a3cef",
+    "sourceVersion": 6,
+    "nodeCount": 140,
+    "edgeCount": 170,
+    "aliases": {
+      "prentice": "ph",
+      "80state": "albany",
+      "csc": "csc",
+      "ctcorp": "ct",
+      "prenticeks": "phks",
+      "rai": "rai",
+      "30gould": "gould",
+      "5900balcones": "balcones"
+    },
+    "notes": "Eight same-entity/address display joins bridge edition 01 to the source graph. No surname-only joins. Registry edges and leads retain their meanings."
+  }
+}

@@ -1,0 +1,52 @@
+EX-2.1
+2
+hepex213-31x2022.htm
+EX-2.1
+Document
+Exhibit 2.1
+AMENDMENT TO CONTRIBUTION AGREEMENT
+THIS AMENDMENT TO CONTRIBUTION AGREEMENT (this “Amendment”) is made as of March 14, 2022 (the “Amendment Date”) by and among (a) The Sinclair Companies, a corporation organized under the Laws of the State of Wyoming (“Sinclair HoldCo”) and the sole shareholder of Sinclair Transportation Company, a corporation organized under the Laws of the State of Wyoming (the “Company”), (b) the Company and (c) Holly Energy Partners, L.P., a limited partnership organized under the Laws of the State of Delaware (“HEP”). Sinclair HoldCo, the Company, and HEP are each referred to herein individually as a “Party” and collectively as the “Parties.” Capitalized terms used herein and not otherwise defined shall have the meanings ascribed to them in the Contribution Agreement (as defined below).
+WHEREAS, the Parties entered into that certain Contribution Agreement on August 2, 2021 (the “Contribution Agreement”);
+WHEREAS, pursuant to Section 10.2 of the Contribution Agreement, the Contribution Agreement may be amended or its provisions waived if, and only if, such amendment or waiver is in writing and, in the case of an amendment, signed by the Parties; and
+WHEREAS, the Parties wish to amend the Contribution Agreement as set forth in this Amendment.
+NOW, THEREFORE, intending to be legally bound and in consideration of the mutual provisions set forth in this Amendment, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties hereby agree as follows:
+Article 1
+AMENDMENTS TO THE CONTRIBUTION AGREEMENT
+Section 1.1Amendment to the Definition of “Adjustment Time” on Annex A of the Contribution Agreement. The definition of “Adjustment Time” set forth on Annex A of the Contribution Agreement is hereby amended and restated in its entirety to read as follows:
+““Adjustment Time” means 12:00:01 a.m. on the Closing Date.”
+Section 1.2Amendment to Section 3.1 of the Contribution Agreement. Section 3.1 of the Contribution Agreement is hereby amended to delete the following proviso from the first sentence: “; provided, however, that if such second Business Day is not the first Business Day of a calendar month, then the Closing Date shall be the first Business Day of the calendar month following the month in which such second Business Day occurs”.
+Section 1.3Amendment to Section 3.2 of the Contribution Agreement. Section 3.2(b)(i) of the Contribution Agreement is hereby amended and restated in its entirety to read as follows:
+“(i) the Sinclair Contribution Consideration pursuant to Section 2.1; provided, however, that Sinclair HoldCo hereby directs HEP to cause to be deposited with the Escrow Agent (as defined in the Business Combination Agreement) 5,290,000 units of the Sinclair Partnership Interest Consideration to be held pursuant to the Escrow Agreement (as defined in the Business Combination Agreement), and HEP agrees to cause such deposit;”
+Section 1.4Addition of Section 6.3(k) to the Contribution Agreement. The following Section 6.3(k) of the Contribution Agreement is hereby added following Section 6.3(j) of the Contribution Agreement:
+“(k) Tax Treatment of Escrowed Units. Notwithstanding anything to the contrary in this Agreement, the Parties shall treat the Escrowed Units (as defined in the Business Combination Agreement) as received by Sinclair HoldCo on the Closing Date as part of the Section 721 contribution forming part of the Intended Tax Treatment and as property of Sinclair HoldCo for all Tax purposes except to the extent otherwise required by a final “determination” within the meaning of Section 1313(a) of the Code.”
+Section 1.5Amendment to Section 10.1 of the Contribution Agreement. The mailing address for notices to Vinson & Elkins L.L.P. set forth in Section 10.1 of the Contribution Agreement is hereby amended to read as follows:
+Vinson & Elkins L.L.P.
+845 Texas Avenue, Suite 4700
+Houston, Texas 77002.
+Article 2
+MISCELLANEOUS
+Section 2.1No Other Amendment. Except to the extent that any provisions of or any Schedules or Exhibits to the Contribution Agreement are expressly amended by Article 1 of this Amendment, all terms and conditions of the Contribution Agreement and all other documents, instruments and agreements executed thereunder, shall remain in full force and effect pursuant to the terms thereof. In the event of any inconsistency or contradiction between the terms of this Amendment and the Contribution Agreement, the provisions of this Amendment shall prevail and control.
+Section 2.2Reference to the Contribution Agreement. On and after the date hereof, each reference in the Contribution Agreement to “this Agreement,” “hereof,” “herein,” “herewith,” “hereunder” and words of similar import shall, unless otherwise stated, be construed to refer to the Contribution Agreement as amended by this Amendment. No reference to this Amendment need be made in any instrument or document at any time referring to the Contribution Agreement and a reference to the Contribution Agreement in any such instrument or document shall be deemed to be a reference to the Contribution Agreement as amended by this Amendment.
+Section 2.3General Provisions. Except as set forth in Article 1 of this Amendment, the provisions of Section 1.2 (Interpretation and Construction) and Article X (Miscellaneous) of the Contribution Agreement apply equally to this Amendment and are hereby deemed incorporated by reference, mutatis mutandis, as though set forth directly in this Amendment.
+[Signature Page Follows]
+2
+IN WITNESS WHEREOF, the Parties have duly executed this Amendment to be effective as of the Amendment Date.
+HEP
+HOLLY ENERGY PARTNERS, L.P.
+By: HEP Logistics Holdings, L.P., its General Partner
+By: Holly Logistic Services, L.L.C., its General Partner
+By: /s/ Richard L. Voliva III_________________
+Name: Richard L. Voliva III
+Title: President
+3
+SINCLAIR HOLDCO
+THE SINCLAIR COMPANIES
+By:/s/ Stephen E. Holding
+Name: Stephen E. Holding
+Title: President
+COMPANY
+SINCLAIR TRANSPORTATION COMPANY
+By: /s/ Peter M. Johnson________________
+Name: Peter M. Johnson
+Title: Vice President
+[Signature Page to Contribution Agreement]

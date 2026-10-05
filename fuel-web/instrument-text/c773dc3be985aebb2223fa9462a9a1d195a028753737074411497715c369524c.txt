@@ -1,0 +1,1022 @@
+EX-2.1
+2
+d341711dex21.htm
+SEPARATION AND DISTRIBUTION AGREEMENT
+Separation and Distribution Agreement
+Exhibit 2.1
+SEPARATION AND DISTRIBUTION AGREEMENT
+BY AND BETWEEN
+CONOCOPHILLIPS
+AND
+PHILLIPS 66
+DATED AS OF APRIL 26, 2012
+TABLE OF CONTENTS
+ARTICLE I DEFINITIONS
+2
+ARTICLE II THE SEPARATION
+13
+2.1.
+Transfer of Assets and Assumption of Liabilities
+13
+2.2.
+Phillips 66 Assets
+15
+2.3.
+Phillips 66 Liabilities
+17
+2.4.
+Transfer of Excluded Assets; Assumption of Excluded Liabilities
+18
+2.5.
+Approvals and Notifications
+19
+2.6.
+Novation of Phillips 66 Liabilities
+21
+2.7.
+Novation of Excluded Liabilities
+22
+2.8.
+Termination of Agreements
+22
+2.9.
+Treatment of Shared Contracts
+23
+2.10.
+Bank Accounts; Cash Balances
+25
+2.11.
+Other Ancillary Agreements
+26
+2.12.
+Disclaimer of Representations and Warranties
+26
+2.13.
+Phillips 66 Financing Arrangements
+26
+2.14.
+Financial Information Certifications
+27
+ARTICLE III THE DISTRIBUTION
+27
+3.1.
+The Distribution
+27
+3.2.
+Actions Prior to the Distribution
+27
+3.3.
+Conditions to Distribution
+28
+3.4.
+Certain Stockholder Matters
+29
+ARTICLE IV DISPUTE RESOLUTION
+30
+4.1.
+General Provisions
+30
+ARTICLE V FURTHER ASSURANCES AND ADDITIONAL COVENANTS
+30
+5.1.
+Further Assurances
+30
+5.2.
+Performance
+32
+5.3.
+ConocoPhillips Guarantees
+32
+5.4.
+Third-Party Agreements
+32
+-i-
+5.5.
+Tax Matters
+32
+5.6.
+Indemnification Matters
+32
+5.7.
+Employee Matters
+33
+ARTICLE VI TERMINATION
+33
+6.1.
+Termination
+33
+ARTICLE VII MISCELLANEOUS
+33
+7.1.
+Counterparts; Entire Agreement; Corporate Power
+33
+7.2.
+Governing Law
+34
+7.3.
+Assignability
+34
+7.4.
+Third-Party Beneficiaries
+34
+7.5.
+Notices
+35
+7.6.
+Severability
+35
+7.7.
+Force Majeure
+35
+7.8.
+Publicity
+35
+7.9.
+Expenses
+36
+7.10.
+Late Payments
+36
+7.11.
+Headings
+36
+7.12.
+Survival of Covenants
+36
+7.13.
+Waivers of Default
+36
+7.14.
+Specific Performance
+36
+7.15.
+Amendments
+36
+7.16.
+Interpretation
+37
+7.17.
+Relationship of the Parties
+37
+7.18.
+Limitations of Liability
+37
+-ii-
+SEPARATION AND DISTRIBUTION AGREEMENT
+This SEPARATION AND DISTRIBUTION AGREEMENT, made and entered into effective as of April 26, 2012 (this
+“Agreement”), is by and between ConocoPhillips, a Delaware corporation (“ConocoPhillips”), and Phillips 66, a Delaware corporation and wholly owned subsidiary of ConocoPhillips (“Phillips 66”).
+Capitalized terms used herein and not otherwise defined shall have the respective meanings assigned to them in Article I.
+R E
+C I T A L S
+WHEREAS, the board of directors of ConocoPhillips (the “ConocoPhillips Board”) has determined
+that it is in the best interests of ConocoPhillips and its stockholders to create a new publicly traded company that shall operate the Phillips 66 Business;
+WHEREAS, Phillips 66 has been incorporated for this purpose and has not engaged in activities except in preparation for its corporate reorganization (including activities with respect to the Phillips 66
+Financing Arrangements) and the distribution of its stock;
+WHEREAS, in furtherance of the foregoing, the ConocoPhillips Board
+has determined that it is appropriate and desirable for ConocoPhillips and its applicable Subsidiaries to transfer the Phillips 66 Assets to Phillips 66 and certain entities designated by Phillips 66 that will be Subsidiaries of Phillips 66 as of
+the Distribution Date (any such entities, the “Phillips 66 Designees”), and for Phillips 66 and the Phillips 66 Designees to assume the Phillips 66 Liabilities, in each case as more fully described in this Agreement and the
+Ancillary Agreements (the “Separation”);
+WHEREAS, ConocoPhillips currently intends that, on the Distribution
+Date, ConocoPhillips shall distribute to holders of shares of ConocoPhillips Common Stock, through a spin-off, all of the outstanding shares of Phillips 66 Common Stock, as more fully described in this Agreement and the Ancillary Agreements (the
+“Distribution”);
+WHEREAS, for U.S. federal income tax purposes, the Contribution and the Distribution, if
+effected, taken together, are intended to qualify as a tax-free transaction under Sections 355 and 368(a)(1)(D) of the Code;
+WHEREAS, this Agreement is intended to be, and is hereby adopted as, a “plan of reorganization” within the meaning of Treas.
+Reg. 1.368-2(g); and
+WHEREAS, it is appropriate and desirable to set forth the principal corporate transactions required to
+effect the Separation and the Distribution and certain other agreements that will govern certain matters relating to the Separation and the Distribution and the relationship of ConocoPhillips, Phillips 66 and their respective Subsidiaries, following
+the Distribution.
+NOW, THEREFORE, in consideration of the mutual agreements, provisions and covenants
+contained in this Agreement, the parties, intending to be legally bound, hereby agree as follows:
+ARTICLE I
+DEFINITIONS
+For
+the purpose of this Agreement, the following terms shall have the following meanings:
+“Accounts Receivable
+Securitization” means a financing arrangement entered into prior to the Distribution by Phillips 66 Company, and approved by ConocoPhillips, involving the transfer or sale of accounts receivable of Phillips 66 Company or any member of the
+Phillips 66 Group.
+“Action” means any demand, action, claim, dispute, suit, countersuit, arbitration,
+inquiry, subpoena, proceeding or investigation of any nature (whether criminal, civil, legislative, administrative, regulatory, prosecutorial or otherwise) by or before any federal, state, local, foreign or international Governmental Authority or
+any arbitration or mediation tribunal.
+“Affiliate” means, when used with respect to a specified Person, a
+Person that, directly or indirectly, through one or more intermediaries, controls, is controlled by or is under common control with such specified Person. For the purpose of this definition, “control” (including with correlative
+meanings, “controlled by” and “under common control with”), when used with respect to any specified Person, means the possession, directly or indirectly, of the power to direct or cause the direction of the
+management and policies of such Person, whether through the ownership of voting securities or other interests, by contract, agreement, obligation, indenture, instrument, lease, promise, arrangement, release, warranty, commitment, undertaking or
+otherwise. For the avoidance of doubt, after the Distribution, the members of the ConocoPhillips Group and the members of the Phillips 66 Group shall not be deemed to be under common control for purposes hereof due solely to the fact that
+ConocoPhillips and Phillips 66 have common shareholders.
+“Agent” means the distribution agent to be
+appointed by ConocoPhillips to distribute to the stockholders of ConocoPhillips all of the outstanding shares of Phillips 66 Common Stock pursuant to the Distribution.
+“Agreement” shall have the meaning set forth in the Preamble.
+“Ancillary Agreements” means the Employee Matters Agreement, the Indemnification and Release Agreement, the Intellectual
+Property Assignment and License Agreement, the Transition Services Agreement, the Tax Sharing Agreement and the Transfer Documents.
+“Approvals or Notifications” means any consents, waivers, approvals, permits or authorizations to be obtained from, notices, registrations or reports to be submitted to, or other filings
+to be made with, any third Person, including any Governmental Authority.
+“Assets” means, with respect to any
+Person, the assets, properties, claims and rights (including goodwill) of such Person, wherever located (including in the possession of vendors or other third Persons or elsewhere), of every kind, character and description, whether real, personal or
+mixed, tangible, intangible or contingent, in each case, whether or not recorded or reflected or required to be recorded or reflected on the books and records or financial statements of such Person, including the following:
+(a) all accounting and other books, records and files whether in paper, microfilm, microfiche, computer tape or disc,
+magnetic tape, electronic or any other form;
+-2-
+(b) all apparatus, computers and other electronic data processing and
+communications equipment, fixtures, machinery, equipment, furniture, office equipment, automobiles, trucks, vessels, motor vehicles and other transportation equipment and other tangible personal property;
+(c) all inventories of materials, parts, raw materials, components, supplies, works-in-process and finished goods and
+products;
+(d) all interests in real property of whatever nature, including easements, whether as owner,
+mortgagee or holder of a Security Interest in real property, lessor, sublessor, lessee, sublessee or otherwise;
+(e) (i) all interests in any capital stock or other equity interests of any Subsidiary, Affiliate or any other Person,
+(ii) all bonds, notes, debentures or other securities issued by any Subsidiary, Affiliate or any other Person, (iii) all loans, advances or other extensions of credit or capital contributions to any Subsidiary, Affiliate or any other
+Person, and (iv) all other investments in securities of any Person;
+(f) all license agreements, leases of
+personal property, open purchase orders for raw materials, supplies, parts or services and other contracts, agreements or commitments;
+(g) all letters of credit;
+(h) all written (including in
+electronic form) or oral technical information, data, specifications, research and development information, engineering drawings and specifications, operating and maintenance manuals, and materials and analyses prepared by consultants and other
+third Persons;
+(i) all Intellectual Property and Technology;
+(j) all Software;
+(k) all cost information, sales and pricing data, customer prospect lists, supplier records, customer and supplier lists, customer and vendor data, correspondence and lists, product data and literature,
+artwork, design, formulations and specifications, quality records and reports and other books, records, studies, surveys, reports, plans and documents;
+(l) all prepaid expenses, trade accounts and other accounts and notes receivable;
+-3-
+(m) all rights under contracts or agreements, all claims or rights against
+any Person arising from the ownership of any Asset, all rights in connection with any bids or offers and all claims, choses in action or similar rights, whether accrued or contingent;
+(n) all licenses, permits, approvals and authorizations which have been issued by any Governmental Authority;
+(o) all cash or cash equivalents, bank accounts, lock boxes and other deposit arrangements; and
+(p) all interest rate, currency, commodity or other swap, collar, cap or other hedging or similar agreements or
+arrangements.
+“Bridge Loan Facility” means the bridge loan facility pursuant to the bridge loan facility
+agreement entered into prior to the Distribution by Phillips 66, as borrower, the bank named therein as administrative agent, and the lending banks named therein, on such terms and conditions as agreed to by Phillips 66 and the other parties to the
+bridge loan facility agreement and approved by ConocoPhillips.
+“Chemicals Business” means the chemicals
+segment of ConocoPhillips as described in ConocoPhillips’ Annual Report on Form 10-K for the period ended December 31, 2011, which business manufactures and markets petrochemicals and plastics.
+“Code” means the Internal Revenue Code of 1986, as amended.
+“ConocoPhillips” shall have the meaning set forth in the Preamble.
+“ConocoPhillips Accounts” shall have the meaning set forth in Section 2.10(a).
+“ConocoPhillips Board” shall have the meaning set forth in the Recitals.
+“ConocoPhillips Business” means (a) the businesses and operations that comprise or are primarily related to the
+Exploration and Production Business and Emerging Businesses, and (b) (i) the businesses and operations identified on Schedule 1.1A, and (ii) except as otherwise expressly provided herein, any other terminated, divested or
+discontinued businesses or operations that, at the time of termination, divestiture or discontinuation, primarily related to the businesses and operations described in the foregoing clause (a) as existing at the time of termination, divestiture
+or discontinuation.
+“ConocoPhillips Common Stock” means the common stock, par value $0.01 per share, of
+ConocoPhillips.
+“ConocoPhillips Company” means ConocoPhillips Company, a Delaware corporation and a wholly
+owned subsidiary of ConocoPhillips.
+“ConocoPhillips Group” means ConocoPhillips, each Subsidiary of
+ConocoPhillips immediately after the Distribution Date, and each Affiliate of ConocoPhillips immediately after the Distribution Date (in each case other than any member of the Phillips 66 Group).
+-4-
+“ConocoPhillips Guarantees” shall have the meaning set forth in
+Section 5.3.
+“ConocoPhillips Intellectual Property” means (a) the ConocoPhillips Name and
+ConocoPhillips Marks, and (b) all other Intellectual Property that, as of the Distribution Date, is owned or licensed by any member of either Group, other than the Phillips 66 Intellectual Property.
+“ConocoPhillips Name and ConocoPhillips Marks” means the names, marks, trade dress, logos, monograms, domain names and
+other source or business identifiers of ConocoPhillips or any of its Affiliates using or containing “ConocoPhillips” (in block letters or otherwise), “ConocoPhillips” either alone or in combination with other words or elements,
+and all names, marks, trade dress, logos, monograms, domain names and other source or business identifiers confusingly similar to or embodying any of the foregoing either alone or in combination with other words or elements, together with the
+goodwill associated with any of the foregoing.
+“ConocoPhillips Software” means all Software that, as of the
+Distribution Date, is owned or licensed by any member of either Group, other than the Phillips 66 Group Software.
+“ConocoPhillips Technology” means all Technology that, as of the Distribution Date, is owned or licensed by any member
+of either Group, other than the Phillips 66 Technology.
+“ConocoPhillips Transfer Documents” shall have the
+meaning set forth in Section 2.1(b).
+“Contribution” means the contribution by ConocoPhillips to
+Phillips 66 of all the outstanding stock of Phillips 66 Company and any Phillips 66 Assets held directly by ConocoPhillips in exchange for (a) the assumption by Phillips 66 of any Phillips 66 Liabilities from ConocoPhillips, and (b) a
+number of shares of Phillips 66 Common Stock equal to the Required Share Number.
+“Dispute” shall have the
+meaning set forth in the Indemnification and Release Agreement.
+“Distribution” shall have the meaning set
+forth in the Recitals.
+“Distribution Date” means the date and time determined in accordance with
+Section 3.3(a) at which the Distribution occurs.
+“Distribution Ratio” means one half (0.5) of one
+(1) share of Phillips 66 Common Stock distributed in the Distribution in respect of one share of ConocoPhillips Common Stock.
+“Emerging Businesses” means that portion of the emerging business segment of ConocoPhillips described in ConocoPhillips’ Annual Report on Form 10-K for the period ended
+December 31, 2011, that primarily relates to the Exploration and Production Business, including any business identified on Schedule 1.1B (which are being retained by ConocoPhillips).
+-5-
+“Employee Matters Agreement” means the Employee Matters Agreement, dated as
+of the date hereof, between ConocoPhillips and Phillips 66.
+“Environmental Law” means any Law relating to
+pollution, protection or restoration of or prevention of harm to the environment or natural resources, including the use, handling, transportation, treatment, storage, disposal, Release or discharge of Hazardous Materials or the protection of or
+prevention of harm to human health and safety.
+“Environmental Liabilities” means all Liabilities relating
+to, arising out of or resulting from any Hazardous Materials, Environmental Law or contract or agreement relating to environmental, health or safety matters (including all removal, remediation or cleanup costs, investigatory costs, response costs,
+natural resources damages, property damages, personal injury damages, costs of compliance, including with any product take back requirements, or with any settlement, judgment or other determination of Liability and indemnity, contribution or similar
+obligations) and all costs and expenses, interest, fines, penalties or other monetary sanctions in connection therewith.
+“Exchange Act” means the U.S. Securities Exchange Act of 1934, as amended, together with the rules and regulations
+promulgated thereunder.
+“Excluded Assets” shall have the meaning set forth in Section 2.2(b).
+“Excluded Contracts” shall have the meaning set forth in the definition of Phillips 66 Contracts.
+“Excluded Liabilities” shall have the meaning set forth in Section 2.3(b).
+“Existing Phillips 66 Group Patents” shall have the meaning set forth in the Intellectual Property Assignment and
+License Agreement.
+“Exploration and Production Business” means the exploration and production segment of
+ConocoPhillips described in ConocoPhillips’ Annual Report on Form 10-K for the period ended December 31, 2011, which business explores for, produces, transports and markets crude oil, bitumen, natural gas, liquefied natural gas and natural
+gas liquids.
+“Form 10” shall have the meaning set forth in Section 3.3(a)(vi).
+“Governmental Approvals” means any notices, reports or other filings to be made, or any consents, registrations,
+approvals, permits or authorizations to be obtained from, any Governmental Authority.
+“Governmental
+Authority” means any nation or government, any state, municipality or other political subdivision thereof, and any entity, body, agency, commission, department, board, bureau, court, tribunal or other instrumentality, whether federal,
+state, local, domestic, foreign or multinational, exercising executive, legislative, judicial, regulatory, administrative or other similar functions of, or pertaining to, government and any executive official thereof.
+-6-
+“Group” means either the Phillips 66 Group or the ConocoPhillips Group, as
+the context requires.
+“Hazardous Materials” means any chemical, material, substance, waste, pollutant,
+emission, discharge, release or contaminant that could result in liability under, or that is prohibited, limited or regulated by or pursuant to, any Environmental Law, and any natural or artificial substance (whether solid, liquid or gas, noise,
+ion, vapor or electromagnetic) that could cause harm to human health or the environment, including petroleum, petroleum products and byproducts, asbestos and asbestos-containing materials, urea formaldehyde foam insulation, electronic, medical or
+infectious wastes, polychlorinated biphenyls, radon gas, radioactive substances, chlorofluorocarbons and all other ozone-depleting substances.
+“Indemnification and Release Agreement” means the Indemnification and Release Agreement, dated as of the date hereof, between ConocoPhillips and Phillips 66.
+“Information Statement” shall have the meaning set forth in Section 3.3(a)(vi).
+“Intellectual Property” means all of the following whether arising under the Laws of the United States or of any other
+foreign or multinational jurisdiction: (a) patents, patent applications (including patents issued thereon) and statutory invention registrations, including reissues, divisions, continuations, continuations in part, substitutions, renewals,
+extensions and reexaminations of any of the foregoing, and all rights in any of the foregoing provided by international treaties or conventions, (b) trademarks, service marks, trade names, service names, trade dress, logos and other source or
+business identifiers, including all goodwill associated with any of the foregoing and any and all common law rights in and to any of the foregoing, registrations and applications for registration of any of the foregoing, all rights in and to any of
+the foregoing provided by international treaties or conventions, and all reissues, extensions and renewals of any of the foregoing, (c) Internet domain names, (d) copyrightable works, copyrights, moral rights, mask work rights, database
+rights and design rights, whether or not registered, and all registrations and applications for registration of any of the foregoing, and all rights in and to any of the foregoing provided by international treaties or conventions,
+(e) confidential and proprietary information, including trade secrets, invention disclosures, processes and know-how, and (f) intellectual property rights arising from or in respect of any Technology.
+“Intellectual Property Assignment and License Agreement” means the Intellectual Property Assignment and License
+Agreement, dated as of the date hereof, between ConocoPhillips and Phillips 66.
+“Internal Contribution”
+means the contribution by ConocoPhillips Company to Phillips 66 Company of any Phillips 66 Assets held directly by ConocoPhillips Company in exchange for (a) the assumption by Phillips 66 Company of any Phillips 66 Liabilities from
+ConocoPhillips Company, and (b) shares of common stock, par value $0.01 per share, of Phillips 66 Company.
+-7-
+“Internal Distribution” means the distribution, on the Internal
+Distribution Date, by ConocoPhillips Company to ConocoPhillips of all of the outstanding shares of common stock, par value $0.01 per share, of Phillips 66 Company.
+“Internal Distribution Date” means the date on which the Internal Distribution shall be effected, such date to be determined by, or under the authority of, the ConocoPhillips Board in its
+sole and absolute discretion.
+“Law” means any national, supranational, federal, state, provincial, local or
+similar law (including common law), statute, code, order, ordinance, rule, regulation, treaty (including any income tax treaty), license, permit, authorization, approval, consent, decree, injunction, binding judicial or administrative interpretation
+or other requirement, in each case, enacted, promulgated, issued or entered by a Governmental Authority.
+“Liabilities” means any and all debts, guarantees, assurances, commitments, liabilities, responsibilities, Losses,
+remediation, deficiencies, reimbursement obligations in respect of letters of credit, damages, fines, penalties, settlements, sanctions, costs, expenses, interest and obligations, whether accrued or fixed, absolute or contingent, matured or
+unmatured, accrued or not accrued, asserted or unasserted, liquidated or unliquidated, foreseen or unforeseen, known or unknown, reserved or unreserved, or determined or determinable, including those arising under any Law, claim (including any
+Third-Party Claim), demand, Action, or order, writ, judgment, injunction, decree, stipulation, determination or award entered by or with any Governmental Authority or arbitration tribunal, and those arising under any contract, agreement, obligation,
+indenture, instrument, lease, promise, arrangement, release, warranty, commitment or undertaking, or any fines, damages or equitable relief that is imposed, in each case, including all costs and expenses relating thereto.
+“Losses” means actual losses (including any diminution in value), costs, damages, penalties and expenses (including
+legal and accounting fees and expenses and costs of investigation and litigation), whether or not involving a Third-Party Claim.
+“Midstream Business” means the midstream segment of ConocoPhillips as described in ConocoPhillips’ Annual Report on Form 10-K for the period ended December 31, 2011, which
+business purchases, gathers, processes, transports and markets natural gas and fractionates and markets natural gas liquids.
+“NYSE” means the New York Stock Exchange.
+“Person” means an individual, a general or limited partnership, a corporation, a trust, a joint venture, an unincorporated organization, a limited liability entity, any other entity and
+any Governmental Authority.
+“Phillips 66” shall have the meaning set forth in the Preamble.
+“Phillips 66 Accounts” shall have the meaning set forth in Section 2.10(a).
+“Phillips 66 Assets” shall have the meaning set forth in Section 2.2(a).
+-8-
+“Phillips 66 Balance Sheet” means the audited combined balance sheet of the
+Phillips 66 Group, including the notes thereto, as of December 31, 2011.
+“Phillips 66 Business” means
+(a) the business and operations that comprise or are primarily related to the Refining and Marketing Business, Chemicals Business, Midstream Business and Technology Business, and (b) the Phillips 66 Discontinued Businesses; but in each
+case, excluding the businesses and operations primarily related to the Excluded Assets. For avoidance of doubt, the term “Phillips 66 Business” shall include the businesses and operations identified on Schedule 1.1C.
+“Phillips 66 Certificate of Incorporation” shall have the meaning set forth in Section 3.2(d).
+“Phillips 66 Common Stock” means the common stock, par value $0.01 per share, of Phillips 66.
+“Phillips 66 Company” means Phillips 66 Company, a Delaware corporation and a wholly owned subsidiary of ConocoPhillips
+Company.
+“Phillips 66 Contracts” means the following contracts and agreements to which ConocoPhillips or any
+of its Affiliates is a party or by which it or any of its Affiliates or any of their respective Assets is bound, whether or not in writing, in each case immediately prior to the Distribution Date, except for any such contract or agreement that is
+contemplated to be retained by ConocoPhillips or any member of the ConocoPhillips Group pursuant to any provision of this Agreement or any Ancillary Agreement, including those listed on Schedule 1.1D (each, an “Excluded
+Contract”):
+(a) (i) any customer, distribution, supply or vendor contracts or agreements listed on
+Schedule 1.1E and (ii) any other customer, distribution, supply or vendor contracts that relate primarily to the Phillips 66 Business;
+(b) (i) any joint venture or license agreement listed on Schedule 1.1E and (ii) any other joint venture or license agreement that relates primarily to the Phillips 66 Business;
+(c) (i) any guarantee, indemnity, representation or warranty listed on Schedule 1.1E and (ii) any
+guarantee, indemnity, representation or warranty of any member of the Phillips 66 Group or the ConocoPhillips Group in respect of any other Phillips 66 Contract, any Phillips 66 Liability or the Phillips 66 Business;
+(d) any employment, change of control, retention, consulting, indemnification, termination, severance or other similar
+agreements with any Phillips 66 Employee or consultants of the Phillips 66 Group;
+(e) any contract or
+agreement that is otherwise expressly contemplated pursuant to this Agreement or any of the Ancillary Agreements to be assigned to Phillips 66 or any member of the Phillips 66 Group; and
+-9-
+(f) any other contract, agreement, arrangement, commitment or understanding
+listed on Schedule 1.1E and any other contract, agreement, commitment or understanding, whether or not in writing, that relates primarily to the Phillips 66 Business.
+“Phillips 66 Designees” shall have the meaning set forth in the Recitals.
+“Phillips 66 Discontinued Businesses” means (a) the businesses and operations of ConocoPhillips, its current or former Subsidiaries, and any of their predecessors in interest,
+identified on Schedule 1.1F, (b) the terminated, divested or discontinued businesses and operations consisting of the manufacture, transport, marketing and distribution of petrochemical products by ConocoPhillips, its current and former
+Subsidiaries, and any of their predecessors in interest, including synthetic fibers, synthetic rubber, specialty chemicals, carbon black, vinyl chloride and butadiene ethylene, (c) the terminated, divested or discontinued businesses and
+operations consisting of the manufacture, transport, marketing and distribution of fertilizer products by ConocoPhillips, its current and former Subsidiaries, and any of their predecessors in interest, including any Agrico or Phillips fertilizer or
+fertilizer operations, and (d) except as otherwise expressly provided in this Agreement, any other terminated, divested or discontinued businesses or operations of ConocoPhillips, its current and former Subsidiaries, and any of their
+predecessors in interest, that, at the time of termination, divestiture or discontinuation, primarily related to businesses, operations and assets described in clause (a) of the definition of “Phillips 66 Business” as existing at the
+time of termination, divestiture or discontinuation.
+“Phillips 66 Employee” means any individual who,
+immediately prior to the Distribution, is either actively employed primarily by, or then on an approved leave of absence from, any Person that will be a member of the Phillips 66 Group immediately after the Distribution.
+“Phillips 66 Financing Arrangements” means the Rule 144A / Capital Markets Securities, the Term Loan Facility, the
+Bridge Loan Facility, the Accounts Receivable Securitization, and the Revolving Credit Facility.
+“Phillips 66
+Group” means Phillips 66, each Subsidiary of Phillips 66 immediately after the Distribution Date, and each Affiliate of Phillips 66 immediately after the Distribution Date.
+“Phillips 66 Group Proprietary Information” shall have the meaning set forth in the Intellectual Property Assignment and
+License Agreement.
+“Phillips 66 Group Software” shall have the meaning set forth in the Intellectual
+Property Assignment and License Agreement.
+“Phillips 66 Intellectual Property” means (a) the patents,
+patent applications, statutory invention registrations, registered trademarks, registered service marks, registered Internet domain names and copyright registrations (collectively, “Registrable IP”) set forth on Schedule
+1.1G, (b) all Registrable IP that is owned or licensed exclusively by any member of the Phillips 66 Group at or prior to the Distribution Date, excluding any such Registrable IP that has been assigned by any member of the Phillips 66 Group
+to any member of the ConocoPhillips
+-10-
+Group prior to the Distribution Date, and (c) all Intellectual Property, other than Registrable IP, that is owned or licensed by any member of the ConocoPhillips Group or Phillips 66 Group
+and that is used or held for use primarily in the Phillips 66 Business as of the Distribution Date.
+“Phillips 66
+Liabilities” shall have the meaning set forth in Section 2.3(a).
+“Phillips 66 Technology”
+means all Technology owned or licensed by any member of the ConocoPhillips Group or Phillips 66 Group and that is primarily used or held for use in the Phillips 66 Business as of the Distribution Date.
+“Phillips 66 Transfer Documents” shall have the meaning set forth in Section 2.4(b).
+“Prime Rate” means the rate which JPMorgan Chase Bank (or any successor thereto or other major money center commercial
+bank agreed to by the parties hereto) announces from time to time as its prime lending rate, as in effect from time to time.
+“Record Date” means the close of business on the date to be determined by the ConocoPhillips Board as the record date
+for determining stockholders of ConocoPhillips entitled to receive shares of Phillips 66 Common Stock in the Distribution.
+“Refining and Marketing Business” means the refining and marketing segment of ConocoPhillips as described in
+ConocoPhillips’ Annual Report on Form 10-K for the period ended December 31, 2011, which business purchases, refines, markets and transports crude oil and petroleum products, and also includes power generation activities primarily related
+thereto.
+“Registrable IP” shall have the meaning set forth in the definition of Phillips 66 Intellectual
+Property.
+“Release” means any release, spill, emission, discharge, leaking, pumping, pouring, dumping,
+injection, deposit, disposal, dispersal, leaching or migration of Hazardous Materials into the environment (including ambient air, surface water, groundwater and surface or subsurface strata).
+“Required Share Number” means the number of shares of Phillips 66 Common Stock necessary to effect the Distribution less
+the number of shares of Phillips 66 Common Stock outstanding immediately prior to the Contribution.
+“Restructuring
+Steps Memorandum” means the memorandum attached as Annex A hereto setting forth the restructuring steps to be taken prior to the Distribution Date and the sequence thereof.
+“Revolving Credit Facility” means a revolving credit facility pursuant to a revolving credit facility agreement entered
+into prior to the Distribution by Phillips 66, as borrower, the bank named therein as administrative agent, and the lending banks named therein, on such terms and conditions as agreed to by Phillips 66 and the other parties to the revolving credit
+facility agreement and approved by ConocoPhillips.
+-11-
+“Rule 144A / Capital Markets Securities” means securities sold prior to the
+Distribution by Phillips 66, and approved by ConocoPhillips, in reliance on Rule 144A promulgated under the Securities Act.
+“SEC” means the U.S. Securities and Exchange Commission.
+“Securities Act” means the U.S. Securities Act of 1933, as amended, together with the rules and regulations promulgated
+thereunder.
+“Security Interest” means any mortgage, security interest, pledge, lien, charge, claim, option,
+right to acquire, voting or other restriction, right-of-way, covenant, condition, easement, encroachment, restriction on transfer, or other encumbrance of any nature whatsoever.
+“Separation” shall have the meaning set forth in the Recitals.
+“Shared Contract” shall have the meaning set forth in Section 2.9(a).
+“Software” means any and all (a) computer programs, including any and all software implementation of algorithms,
+models and methodologies, whether in source code, object code, human readable form or other form, (b) databases and compilations, including any and all data and collections of data, whether machine readable or otherwise, (c) descriptions,
+flow charts and other work products used to design, plan, organize and develop any of the foregoing, screens, user interfaces, report formats, firmware, development tools, templates, menus, buttons and icons, and (d) documentation, including
+user manuals and other training documentation, relating to any of the foregoing.
+“Subsidiary” or
+“subsidiary” means, with respect to any Person, any corporation, limited liability company, joint venture or partnership of which such Person (a) beneficially owns, either directly or indirectly, more than fifty percent
+(50%) of (i) the total combined voting power of all classes of voting securities of such Person, (ii) the total combined equity interests or (iii) the capital or profit interests, in the case of a partnership, or
+(b) otherwise has the power to vote, either directly or indirectly, sufficient securities to elect a majority of the board of directors or similar governing body.
+“Tax Return” shall have the meaning set forth in the Tax Sharing Agreement.
+“Tax Sharing Agreement” means the Tax Sharing Agreement, dated as of the date hereof, between ConocoPhillips, ConocoPhillips Company, Phillips 66 and Phillips 66 Company.
+“Taxes” shall have the meaning set forth in the Tax Sharing Agreement.
+“Technology” means all technology, designs, formulae, algorithms, procedures, methods, discoveries, processes,
+techniques, ideas, know-how, research and development, technical data, tools, materials, specifications, processes, inventions (whether patentable or unpatentable and whether or not reduced to practice), apparatus, creations, improvements, works of
+authorship in any media, confidential, proprietary or non-public information and other similar materials, and all recordings, graphs, drawings, reports, analyses and other writings, and other tangible embodiments of the foregoing in any form whether
+or not listed herein.
+-12-
+“Technology Business” means that portion of the emerging business segment
+of ConocoPhillips as described in ConocoPhillips’ Annual Report on Form 10-K for the period ended December 31, 2011, that primarily relates to the Refining and Marketing Business, Chemicals Business or Midstream Business, including the
+research and development of advanced hydrocarbon processes, energy efficiency technologies, new petroleum-based products, renewable fuels and carbon capture and conversion technologies, and that is not a business identified by company codes on
+Schedule 1.1B.
+“Term Loan Facility” means the term loan facility pursuant to the term loan agreement
+entered into prior to the Distribution by Phillips 66, as borrower, the bank named therein as administrative agent, and the lending banks named therein, on such terms and conditions as agreed to by Phillips 66 and the other parties to the term loan
+agreement and approved by ConocoPhillips.
+“Third-Party Claim” shall have the meaning set forth in the
+Indemnification and Release Agreement.
+“Transfer Documents” shall have the meaning set forth in
+Section 2.4(b).
+“Transferred Entities” shall have the meaning set forth in Section 2.2(a)(ii).
+“Transition Services Agreement” means the Transition Services Agreement, dated as of the date hereof,
+between ConocoPhillips and Phillips 66.
+“Unreleased Excluded Liability” shall have the meaning set forth in
+Section 2.7(b).
+“Unreleased Phillips 66 Liability” shall have the meaning set forth in
+Section 2.6(b).
+ARTICLE II
+THE SEPARATION
+2.1. Transfer of Assets and Assumption of Liabilities.
+(a) Unless otherwise provided in this Agreement or in any Ancillary Agreement, on or prior to the Distribution Date in
+accordance with the Restructuring Steps Memorandum and to the extent not previously effected prior to the date hereof pursuant to the steps of the Restructuring Steps Memorandum:
+(i) ConocoPhillips shall, and shall cause its applicable Subsidiaries to, assign, transfer, convey and deliver to Phillips
+66, or the applicable Phillips 66 Designees, and Phillips 66 or such Phillips 66 Designees shall accept from ConocoPhillips and its applicable Subsidiaries, all of ConocoPhillips’ and such Subsidiaries’ respective direct or indirect right,
+title and interest in and to all of the
+-13-
+Phillips 66 Assets (it being understood that if any Phillips 66 Asset shall be held by a Transferred Entity or a wholly owned Subsidiary of a Transferred Entity, such Phillips 66 Asset may be
+assigned, transferred, conveyed and delivered as a result of the transfer of all or substantially all of the equity interests in such Transferred Entity);
+(ii) Phillips 66 and the applicable Phillips 66 Designees shall accept, assume and agree faithfully to perform, discharge and fulfill all the Phillips 66 Liabilities in accordance with their respective
+terms. Phillips 66 and such Phillips 66 Designees shall be responsible for all Phillips 66 Liabilities, regardless of when or where such Phillips 66 Liabilities arose or arise, or whether the facts on which they are based occurred prior to or
+subsequent to the Distribution Date, regardless of where or against whom such Phillips 66 Liabilities are asserted or determined (including any Phillips 66 Liabilities arising out of claims made by the respective directors, officers, employees,
+agents, stockholders, Subsidiaries or Affiliates of either Group against any member of either Group) or whether asserted or determined prior to the date hereof, and regardless of whether arising from or alleged to arise from negligence,
+recklessness, violation of Law, fraud, misrepresentation or any other cause by any member of either Group, or any of their respective directors, officers, employees or agents;
+(iii) ConocoPhillips shall cause its applicable Subsidiaries to assign, transfer, convey and deliver to certain of its
+other Subsidiaries, which shall accept, such applicable Subsidiaries’ respective right, title and interest in and to any Excluded Assets specified by ConocoPhillips to be so assigned, transferred, conveyed and delivered; and
+(iv) ConocoPhillips and certain of its Subsidiaries shall accept and assume from certain of its other Subsidiaries and
+agree faithfully to perform, discharge and fulfill certain Excluded Liabilities of such other Subsidiaries, and ConocoPhillips and its applicable Subsidiaries shall be responsible for all Excluded Liabilities, regardless of when or where such
+Excluded Liabilities arose or arise, or whether the facts on which they are based occurred prior to or subsequent to the Distribution Date, regardless of where or against whom such Excluded Liabilities are asserted or determined (including any such
+Excluded Liabilities arising out of claims made by the respective directors, officers, employees, agents, stockholders, Subsidiaries or Affiliates of either Group against any member of either Group) or whether asserted or determined prior to the
+date hereof, and regardless of whether arising from or alleged to arise from negligence, recklessness, violation of Law, fraud, misrepresentation or any cause by any member of either Group, or any of their respective directors, officers, employees
+or agents.
+(b) In furtherance of the assignment, transfer, conveyance and delivery of the Phillips 66 Assets and the
+assumption of the Phillips 66 Liabilities in accordance with Sections 2.1(a)(i) and 2.1(a)(ii), on, before and/or as of the date that such Phillips 66 Assets are assigned, transferred, conveyed or delivered or such Phillips 66 Liabilities are
+assumed (i) ConocoPhillips shall execute and deliver, and shall cause its Subsidiaries to execute and deliver, such bills of sale, deeds, stock powers, certificates of title, assignments of contracts and other instruments of transfer,
+conveyance and assignment as and to the extent necessary to evidence the transfer, conveyance and assignment of all of ConocoPhillips’ and its Subsidiaries’ (other than Phillips 66 and its Subsidiaries) right, title and interest in and to
+the Phillips 66 Assets to Phillips 66 and the
+-14-
+Phillips 66 Designees, and (ii) Phillips 66 shall execute and deliver, and shall cause the Phillips 66 Designees to execute and deliver, such assumptions of contracts and other instruments
+of assumption as and to the extent necessary to evidence the valid and effective assumption of the Phillips 66 Liabilities by Phillips 66 and the Phillips 66 Designees. All of the foregoing documents contemplated by this Section 2.1(b) shall be
+referred to collectively herein as the “ConocoPhillips Transfer Documents.”
+(c) To the extent any Phillips
+66 Asset is not transferred or assigned to, or any Phillips 66 Liability is not assumed by, a member of the Phillips 66 Group at the Distribution Date or is owned or held by a member of the ConocoPhillips Group after the Distribution Date, from and
+after the Distribution Date, any such Phillips 66 Asset or Phillips 66 Liability shall be held by such member of the ConocoPhillips Group for the use and benefit of the member of the Phillips 66 Group entitled thereto (at the expense of the member
+of the Phillips 66 Group entitled thereto) in accordance with Section 2.5(c), and, subject to Section 2.5(b):
+(i) ConocoPhillips shall, and shall cause its applicable Subsidiaries to, as soon as reasonably practicable, assign, transfer, convey and deliver to Phillip 66 or certain of its Subsidiaries designated by
+Phillips 66, and Phillips 66 or such Subsidiaries shall accept from ConocoPhillips and its applicable Subsidiaries, all of ConocoPhillips’ and such Subsidiaries’ respective right, title and interest in and to such Phillips 66 Assets; and
+(ii) Phillips 66 and certain of its Subsidiaries designated by Phillips 66 shall, as soon as reasonably
+practicable, accept, assume and agree faithfully to perform, discharge and fulfill all such Phillips 66 Liabilities in accordance with their respective terms.
+(d) Phillips 66 hereby waives compliance by each and every member of the ConocoPhillips Group with the requirements and provisions of any “bulk-sale” or “bulk-transfer” Laws of any
+jurisdiction that may otherwise be applicable with respect to the transfer or sale of any or all of the Phillips 66 Assets to any member of the Phillips 66 Group.
+(e) ConocoPhillips hereby waives compliance by each and every member of the Phillips 66 Group with the requirements and provisions of any “bulk-sale” or “bulk-transfer” Laws of any
+jurisdiction that may otherwise be applicable with respect to the transfer or sale of any or all of the Excluded Assets to any member of the ConocoPhillips Group.
+(f) Following the Distribution Date, ConocoPhillips or Phillips 66, as applicable, shall pay or cause to be paid to the other an adjustment amount based on closing date working capital in accordance with
+Schedule 2.1(f).
+2.2. Phillips 66 Assets.
+(a) For purposes of this Agreement, “Phillips 66 Assets” means (without duplication):
+(i) all Assets that are expressly provided by this Agreement or any Ancillary Agreement as Assets to be transferred to
+Phillips 66 or any other member of the Phillips 66 Group, including the Assets listed on Schedule 2.2(a)(i);
+-15-
+(ii) (A) all Phillips 66 Contracts, (B) all issued and outstanding
+equity interests held by ConocoPhillips or its Subsidiaries in the wholly owned Subsidiaries and Affiliates of ConocoPhillips that have been or shall be contributed to, or otherwise transferred, conveyed, or assigned to, the Phillips 66 Group or
+entities that shall be members of the Phillips 66 Group as of the Distribution Date, as listed on Schedule 2.2(a)(ii)(B) (such Subsidiaries and entities, the “Transferred Entities”), and (C) the shares of capital stock
+or other equity interests held by ConocoPhillips or its Subsidiaries in certain entities (other than the Transferred Entities) that have been or shall be contributed to, or otherwise transferred, conveyed, or assigned to, the Phillips 66 Group as
+listed on Schedule 2.2(a)(ii)(C);
+(iii) all Assets reflected as assets of Phillips 66 or its
+Subsidiaries on the Phillips 66 Balance Sheet, subject to any dispositions of such Assets subsequent to the date of the Phillips 66 Balance Sheet and subject to any adjustment amount based on closing date working capital in accordance with
+Schedule 2.1(f);
+(iv) all Phillips 66 Intellectual Property, Phillips 66 Group Software, Phillips 66
+Group Proprietary Information, Existing Phillips 66 Group Patents and Phillips 66 Technology, pursuant to the Intellectual Property Assignment and License Agreement; and
+(v) any and all Assets owned and used or held for use immediately prior to the Distribution Date by ConocoPhillips or any
+of its Subsidiaries primarily in the Phillips 66 Business.
+Notwithstanding the foregoing, the Phillips 66 Assets shall not, in any event,
+include the Excluded Assets referred to in Section 2.2(b). All rights of the Phillips 66 Group in respect of ConocoPhillips insurance policies are set forth in the Indemnification and Release Agreement and shall not otherwise be included in the
+Phillips 66 Assets.
+(b) For the purposes of this Agreement, “Excluded Assets” means (without duplication):
+(i) the Assets listed on Schedule 2.2(b)(i) and any and all other Assets that are expressly
+contemplated by this Agreement or any Ancillary Agreement as Assets to be retained by ConocoPhillips or any other member of the ConocoPhillips Group;
+(ii) any cash or cash equivalents withdrawn from Phillips 66 Accounts in accordance with Section 2.10(e);
+(iii) the ConocoPhillips Intellectual Property, ConocoPhillips Software and the ConocoPhillips Technology;
+-16-
+(iv) any Shared Contracts (other than Phillips 66 Assets arising under any
+Shared Contracts); and
+(v) any and all Assets of any members of the ConocoPhillips Group that are not Phillips
+66 Assets pursuant to Section 2.2(a).
+2.3. Phillips 66 Liabilities.
+(a) For the purposes of this Agreement, “Phillips 66 Liabilities” means (without duplication):
+(i) all Liabilities, including any Environmental Liabilities, relating to, arising out of or resulting from:
+(A) the operation or ownership of the Phillips 66 Business, as conducted at any time prior to, on or after the
+Distribution Date (including any Liability relating to, arising out of or resulting from any act or failure to act by any Person (whether or not such act or failure to act is or was within such Person’s authority));
+(B) the operation or ownership of any other business conducted by any member of the Phillips 66 Group, any entity that
+shall be a member of the Phillips 66 Group as of the Distribution Date or their predecessors in interest at any time prior to, on or after the Distribution Date (including any Liability relating to, arising out of or resulting from any act or
+failure to act by any Person (whether or not such act or failure to act is or was within such Person’s authority)); or
+(C) any Phillips 66 Assets, including any Phillips 66 Contracts, Shared Contracts (to the extent related to the Phillips 66 Business) and any real property and leasehold interests;
+in any such case, whether arising before, on or after the Distribution Date;
+(ii) the Liabilities listed on Schedule 2.3(a)(ii) and any and all other Liabilities that are expressly provided by
+this Agreement or any Ancillary Agreement as Liabilities to be assumed by Phillips 66 or any member of the Phillips 66 Group, and all agreements, obligations and Liabilities of any member of the Phillips 66 Group under this Agreement or any of the
+Ancillary Agreements;
+(iii) all Liabilities relating to, arising out of or resulting from the Phillips 66
+Financing Arrangements;
+(iv) all Liabilities reflected as liabilities or obligations of Phillips 66 or its
+Subsidiaries on the Phillips 66 Balance Sheet, subject to any discharge of such Liabilities subsequent to the date of the Phillips 66 Balance Sheet;
+-17-
+(v) all Liabilities arising out of claims made by the respective directors,
+officers, stockholders, employees, agents, Subsidiaries or Affiliates of either Group against any member of either Group to the extent relating to, arising out of or resulting from the Phillips 66 Business or the other businesses, operations,
+activities or Liabilities referred to in clauses (i) through (iv) above, inclusive; and
+(vi) without
+limitation of clauses (i) through (v) of this Section 2.3(a) above, all Liabilities of the ConocoPhillips Group relating to the period prior to or on the Distribution Date that are not primarily related to the ConocoPhillips Business,
+including all Liabilities relating to Phillips 66 Discontinued Businesses and those Liabilities listed on Schedule 2.3(a)(vi).
+Notwithstanding the foregoing, the Phillips 66 Liabilities shall not include the Excluded Liabilities referred to in Section 2.3(b).
+(b) For the purposes of this Agreement, “Excluded Liabilities” means (without duplication):
+(i) the Liabilities listed on Schedule 2.3(b)(i) and any and all other Liabilities that are expressly contemplated
+by this Agreement or any Ancillary Agreement as Liabilities to be retained or assumed by ConocoPhillips or any other member of the ConocoPhillips Group, and all agreements and obligations of any member of the ConocoPhillips Group under this
+Agreement or any of the Ancillary Agreements;
+(ii) any and all Liabilities of a member of the ConocoPhillips
+Group to the extent relating to, arising out of or resulting from any Excluded Assets (other than Liabilities arising under any Shared Contracts to the extent such Liabilities relate to the Phillips 66 Business); and
+(iii) all Liabilities arising out of claims made by the respective directors, officers, stockholders, employees, agents,
+Subsidiaries or Affiliates of either Group against any member of either Group to the extent relating to, arising out of or resulting from the ConocoPhillips Business or the other businesses, operations, activities or Liabilities referred to in
+clauses (i) and (ii) above.
+2.4. Transfer of Excluded Assets; Assumption of Excluded Liabilities.
+(a) To the extent any Excluded Asset is transferred or assigned to, or any Excluded Liability is assumed by, a member of the
+Phillips 66 Group at the Distribution Date or is owned or held by a member of the Phillips 66 Group after the Distribution Date, from and after the Distribution Date, any such Excluded Asset or Excluded Liability shall be held by such member of the
+Phillips 66 Group for the use and benefit of the member of the ConocoPhillips Group entitled thereto (at the expense of the member of the ConocoPhillips Group entitled thereto) in accordance with Section2.5 (d) and:
+(i) Phillips 66 shall, and shall cause its applicable Subsidiaries to, as soon as reasonably practicable, assign,
+transfer, convey and deliver to ConocoPhillips or certain of its Subsidiaries designated by ConocoPhillips, and ConocoPhillips or such
+-18-
+Subsidiaries shall accept from Phillips 66 and its applicable Subsidiaries, all of Phillips 66’s and such Subsidiaries’ respective right, title and interest in and to such Excluded
+Assets; and
+(ii) ConocoPhillips and certain of its Subsidiaries designated by ConocoPhillips shall, as soon as
+reasonably practicable, accept, assume and agree faithfully to perform, discharge and fulfill all such Excluded Liabilities in accordance with their respective terms.
+(b) In furtherance of the assignment, transfer, conveyance and delivery of Excluded Assets and the assumption of Excluded Liabilities set forth in Sections 2.4(a)(i) and 2.4(a)(ii), and without any
+additional consideration therefor: (i) Phillips 66 shall execute and deliver, and shall cause its Subsidiaries to execute and deliver, such bills of sale, quitclaim deeds, stock powers, certificates of title, assignments of contracts and other
+instruments of transfer, conveyance and assignment as and to the extent necessary to evidence the transfer, conveyance and assignment of all of Phillips 66’s and its Subsidiaries’ right, title and interest in and to the Excluded Assets to
+ConocoPhillips and its Subsidiaries, and (ii) ConocoPhillips shall execute and deliver, and shall cause its Subsidiaries to execute and deliver, such assumptions of contracts and other instruments of assumption as and to the extent necessary to
+evidence the valid and effective assumption of the Excluded Liabilities. All of the foregoing documents contemplated by this Section 2.4(b) and by Sections 2.1(a)(iii) and 2.1(a)(iv) shall be referred to collectively herein as the
+“Phillips 66 Transfer Documents” and, together with the ConocoPhillips Transfer Documents, the “Transfer Documents.”
+2.5. Approvals and Notifications.
+(a) To the extent that the transfer or
+assignment of any Phillips 66 Asset, the assumption of any Phillips 66 Liability, the Separation or the Distribution requires any Approvals or Notifications, the parties will endeavor to obtain or make such Approvals or Notifications as soon as
+reasonably practicable; provided, however, that, except to the extent expressly provided in this Agreement or any of the Ancillary Agreements or as otherwise agreed between ConocoPhillips and Phillips 66, neither ConocoPhillips nor
+Phillips 66 shall be obligated to contribute capital or pay any consideration in any form (including providing any letter of credit, guaranty or other financial accommodation) to any Person in order to obtain or make such Approvals or Notifications.
+(b) If and to the extent that the valid, complete and perfected transfer or assignment to the Phillips 66 Group of any
+Phillips 66 Assets or assumption by the Phillips 66 Group of any Phillips 66 Liabilities would be a violation of applicable Law, or require any Approvals or Notifications in connection with the Separation or the Distribution that have not been
+obtained or made by the Distribution Date, then, unless the parties hereto shall otherwise mutually determine, the transfer or assignment to the Phillips 66 Group of such Phillips 66 Assets or the assumption by the Phillips 66 Group of such Phillips
+66 Liabilities, as the case may be, shall be automatically deemed deferred and any such purported transfer, assignment or assumption shall be null and void until such time as all legal impediments are removed or such Approvals or Notifications have
+been obtained or made. Notwithstanding the foregoing, any such Phillips 66 Assets or Phillips 66 Liabilities shall continue to constitute Phillips 66 Assets and Phillips 66 Liabilities for all other purposes of this Agreement.
+-19-
+(c) If any transfer or assignment of any Phillips 66 Asset or any assumption of any Phillips
+66 Liability intended to be transferred, assigned or assumed hereunder, as the case may be, is not consummated on or prior to the Distribution Date, whether as a result of the provisions of Section 2.5(b) or for any other reason, then, insofar
+as reasonably possible, the member of the ConocoPhillips Group retaining such Phillips 66 Asset or such Phillips 66 Liability, as the case may be, shall thereafter hold such Phillips 66 Asset or Phillips 66 Liability, as the case may be, for the use
+and benefit of the member of the Phillips 66 Group entitled thereto (at the expense of the member of the Phillips 66 Group entitled thereto). In addition, the member of the ConocoPhillips Group retaining such Phillips 66 Asset or such Phillips 66
+Liability shall, insofar as reasonably possible and to the extent permitted by applicable Law, treat such Phillips 66 Asset or Phillips 66 Liability in the ordinary course of business in accordance with past practice and take such other actions as
+may be reasonably requested by the member of the Phillips 66 Group to whom such Phillips 66 Asset is to be transferred or assigned, or which will assume such Phillips 66 Liability, as the case may be, in order to place such member of the Phillips 66
+Group in a substantially similar position as if such Phillips 66 Asset or Phillips 66 Liability had been transferred, assigned or assumed as contemplated hereby and so that all the benefits and burdens relating to such Phillips 66 Asset or Phillips
+66 Liability, as the case may be, including use, risk of loss, potential for gain, and dominion, control and command over such Phillips 66 Asset or Phillips 66 Liability, as the case may be, and all costs and expenses related thereto, shall inure
+from and after the Distribution Date (or, in the case of any such Phillips 66 Assets or Phillips 66 Liabilities intended to be transferred, assigned or assumed hereunder, as the case may be, by Phillips 66 Company pursuant to the Internal
+Contribution on or prior to the Internal Distribution Date, from and after the Internal Distribution Date) to the Phillips 66 Group.
+(d) If any transfer or assignment of any Excluded Asset or any assumption of any Excluded Liability not intended to be transferred, assigned or assumed hereunder, as the case may be, is consummated on or
+prior to the Distribution Date (as described in Section 2.4(a)), then, insofar as reasonably possible, the member of the Phillips 66 Group holding or owning such Excluded Asset or such Excluded Liability, as the case may be, shall thereafter
+hold such Excluded Asset or Excluded Liability, as the case may be, for the use and benefit of the member of the ConocoPhillips Group entitled thereto (at the expense of the member of the ConocoPhillips Group entitled thereto). In addition, the
+member of the Phillips 66 Group retaining such Excluded Asset or such Excluded Liability shall, insofar as reasonably possible and to the extent permitted by applicable Law, treat such Excluded Asset or Excluded Liability in the ordinary course of
+business in accordance with past practice and take such other actions as may be reasonably requested by the member of the ConocoPhillips Group to whom such Excluded Asset is to be transferred or assigned, or which will assume such Excluded
+Liability, as the case may be, in order to place such member of the ConocoPhillips Group in a substantially similar position as if such Excluded Asset or Excluded Liability had not been so transferred, assigned or assumed and so that all the
+benefits and burdens relating to such Excluded Asset or Excluded Liability, as the case may be, including use, risk of loss, potential for gain, and dominion, control and command over such Excluded Asset or Excluded Liability, as the case may be,
+and all costs and expenses related thereto, shall inure from and after the Distribution
+-20-
+Date (or, in the case of any such Excluded Assets or Excluded Liabilities that were transferred, assigned or assumed hereunder, as the case may be, by ConocoPhillips Company in connection with
+the Internal Contribution on or prior to the Internal Distribution Date, from and after the Internal Distribution Date) to the ConocoPhillips Group.
+(e) If and when the Approvals or Notifications, the absence of which caused the deferral of transfer or assignment of any Phillips 66 Asset or the deferral of assumption of any Phillips 66 Liability
+pursuant to Section 2.5(b), are obtained or made, and, if and when any other legal impediments for the transfer or assignment of any Phillips 66 Asset or the assumption of any Phillips 66 Liability have been removed, the transfer or assignment
+of the applicable Phillips 66 Asset or the assumption of the applicable Phillips 66 Liability, as the case may be, shall be effected in accordance with the terms of this Agreement and/or the applicable Ancillary Agreement.
+(f) Except as otherwise agreed between ConocoPhillips and Phillips 66, (i) any member of the ConocoPhillips Group retaining a
+Phillips 66 Asset or Phillips 66 Liability (whether as a result of the provisions of Section 2.5(b) or for any other reason), and (ii) any member of the Phillips 66 Group holding or owning an Excluded Asset or Excluded Liability due to a
+transfer or assignment to, or assumption by, such member of the Phillips 66 Group (as described in Section 2.4(a)), shall not be obligated, in order to effect the transfer of such Asset or Liability to the Group member entitled thereto, to
+expend any money unless the necessary funds are advanced (or otherwise made available) by the Group member entitled thereto, other than reasonable out-of-pocket expenses, attorneys’ fees and recording or similar fees, all of which shall be
+promptly reimbursed by the Group member entitled to such Asset or Liability.
+2.6. Novation of Phillips 66 Liabilities.
+(a) Each of ConocoPhillips and Phillips 66, at the request of the other, shall endeavor, if reasonably practicable, to obtain,
+or to cause to be obtained, if reasonably practicable, any consent, substitution, approval or amendment required to novate or assign all obligations under agreements, leases, licenses and other obligations or Liabilities of any nature whatsoever
+that constitute Phillips 66 Liabilities, or to obtain in writing the unconditional release of all parties to such arrangements other than any member of the Phillips 66 Group, so that, in any such case, the members of the Phillips 66 Group will be
+solely responsible for the Phillips 66 Liabilities; provided, however, that neither ConocoPhillips nor Phillips 66 shall be obligated to contribute any capital or pay any consideration in any form (including providing any letter of
+credit, guaranty or other financial accommodation) to any third Person from whom any such consent, substitution, approval, amendment or release is requested.
+(b) If ConocoPhillips or Phillips 66 is unable to obtain, or to cause to be obtained, any such required consent, substitution, approval, amendment or release and the applicable member of the
+ConocoPhillips Group continues to be bound by such agreement, lease, license or other obligation or Liability (each, an “Unreleased Phillips 66 Liability”), Phillips 66 shall, to the extent not prohibited by Law, as indemnitor,
+guarantor, agent or subcontractor for such member of the ConocoPhillips Group, as the case may be, (i) pay, perform and discharge fully all the obligations or other Liabilities of such member of the ConocoPhillips Group that constitute
+Unreleased Phillips 66 Liabilities from and after the Distribution Date and (ii) use its
+-21-
+commercially reasonable efforts to effect such payment, performance, or discharge prior to any demand for such payment, performance, or discharge is permitted to be made by the obligee thereunder
+on any member of the ConocoPhillips Group. If and when any such consent, substitution, approval, amendment or release shall be obtained or the Unreleased Phillips 66 Liabilities shall otherwise become assignable or able to be novated, ConocoPhillips
+shall promptly assign, or cause to be assigned, and Phillips 66 or the applicable Phillips 66 Group member shall assume, such Unreleased Phillips 66 Liabilities without exchange of further consideration.
+2.7. Novation of Excluded Liabilities.
+(a) Each of ConocoPhillips and Phillips 66, at the request of the other, shall endeavor, if reasonably practicable, to obtain, or to cause to be obtained, if reasonably practicable, any consent,
+substitution, approval or amendment required to novate or assign all obligations under agreements, leases, licenses and other obligations or Liabilities of any nature whatsoever that constitute Excluded Liabilities, or to obtain in writing the
+unconditional release of all parties to such arrangements other than any member of the ConocoPhillips Group, so that, in any such case, the members of the ConocoPhillips Group will be solely responsible for such Excluded Liabilities;
+provided, however, that neither ConocoPhillips nor Phillips 66 shall be obligated to contribute any capital or pay any consideration in any form (including providing any letter of credit, guaranty or other financial accommodation) to
+any third Person from whom any such consent, substitution, approval, amendment or release is requested.
+(b) If ConocoPhillips
+or Phillips 66 is unable to obtain, or to cause to be obtained, any such required consent, substitution, approval, amendment or release and the applicable member of the Phillips 66 Group continues to be bound by such agreement, lease, license or
+other obligation or Liability (each, an “Unreleased Excluded Liability”), ConocoPhillips shall, to the extent not prohibited by Law, as indemnitor, guarantor, agent or subcontractor for such member of the Phillips 66 Group, as the
+case may be, (i) pay, perform and discharge fully all the obligations or other Liabilities of such member of the Phillips 66 Group that constitute Unreleased Excluded Liabilities from and after the Distribution Date and (ii) use its
+commercially reasonable efforts to effect such payment, performance, or discharge prior to any demand for such payment, performance, or discharge is permitted to be made by the obligee thereunder on any member of the Phillips 66 Group. If and when
+any such consent, substitution, approval, amendment or release shall be obtained or the Unreleased Excluded Liabilities shall otherwise become assignable or able to be novated, Phillips 66 shall promptly assign, or cause to be assigned, and
+ConocoPhillips or the applicable ConocoPhillips Group member shall assume, such Unreleased Excluded Liabilities without exchange of further consideration.
+2.8. Termination of Agreements.
+(a) Except as set forth in
+Section 2.8(b), in furtherance of the releases and other provisions of the Indemnification and Release Agreement, Phillips 66 and each member of the Phillips 66 Group, on the one hand, and ConocoPhillips and each member of the ConocoPhillips
+Group, on the other hand, hereby terminate any and all agreements, arrangements, commitments or understandings, whether or not in writing, between or among Phillips 66 and/or any member of the Phillips 66 Group and/or any entity that shall be a
+member
+-22-
+of the Phillips 66 Group as of the Distribution Date, on the one hand, and ConocoPhillips and/or any member of the ConocoPhillips Group (other than entities that shall be members of the Phillips
+66 Group as of the Distribution Date), on the other hand, effective as of the Distribution Date. No such terminated agreement, arrangement, commitment or understanding (including any provision thereof which purports to survive termination) shall be
+of any further force or effect after the Distribution Date. Each party shall, at the reasonable request of any other party, take, or cause to be taken, such other actions as may be necessary to effect the foregoing.
+(b) The provisions of Section 2.8(a) shall not apply to any of the following agreements, arrangements, commitments or understandings
+(or to any of the provisions thereof): (i) this Agreement and the Ancillary Agreements (and each other agreement or instrument expressly contemplated by this Agreement or any Ancillary Agreement to be entered into by any of the parties hereto
+or any of the members of their respective Groups); (ii) any agreements, arrangements, commitments or understandings listed or described on Schedule 2.8(b)(ii); (iii) any agreements, arrangements, commitments or understandings to
+which any Person other than the parties hereto and the members of their respective Groups is a party (it being understood that to the extent that the rights and obligations of the parties and the members of their respective Groups under any such
+agreements, arrangements, commitments or understandings constitute Phillips 66 Assets or Phillips 66 Liabilities, they shall be assigned pursuant to Section 2.1); (iv) any intercompany accounts payable or accounts receivable accrued as of
+the Distribution Date that are reflected in the books and records of the parties or otherwise documented in writing in accordance with past practices; (v) any agreements, arrangements, commitments or understandings to which any member of the
+ConocoPhillips Group or Phillips 66 Group, other than a wholly owned Subsidiary of ConocoPhillips or Phillips 66, as the case may be, is a party (it being understood that directors’ qualifying shares or similar interests will be disregarded for
+purposes of determining whether a Subsidiary is wholly owned); (vi) any Shared Contracts; and (vii) any other agreements, arrangements, commitments or understandings that this Agreement or any Ancillary Agreement expressly contemplates
+will survive the Distribution Date.
+2.9. Treatment of Shared Contracts.
+(a) Without limiting the generality of the obligations set forth in Section 2.1, unless the parties otherwise agree or the benefits
+of any contract, agreement, arrangement, commitment or understanding described in this Section 2.9 are expressly conveyed to the applicable party pursuant to an Ancillary Agreement, (i) any contract, agreement, arrangement, commitment or
+understanding that is listed on Schedule 2.9(a) shall be assigned in part to the applicable member(s) of the applicable Group, if so assignable, or appropriately amended prior to, on or after the Distribution Date, so that each party or the
+members of its respective Group shall, as of the Distribution Date, be entitled to the rights and benefits, and shall assume the related portion of any Liabilities, inuring to its respective businesses, in each case, in accordance with the
+allocation of benefits and burdens set forth on Schedule 2.9(a), and (ii) (A) any contract, agreement, arrangement, commitment or understanding that is an Excluded Asset or Excluded Liability but, prior to the Distribution Date,
+inured in part to the benefit or burden of any member of the Phillips 66 Group (other than any such contract, agreement, arrangement, commitment or understanding covering substantially the same services or arrangements that are covered by a
+contract, agreement, arrangement, commitment or understanding entered into by a member of the Phillips 66 Group in connection with the Separation), and (B) any contract, agreement,
+-23-
+arrangement, commitment or understanding that is a Phillips 66 Asset or a Phillips 66 Liability but, prior to the Distribution Date, inured in part to the benefit or burden of any member of the
+ConocoPhillips Group (other than any such contract, agreement, arrangement, commitment or understanding covering substantially the same services or arrangements that are covered by a contract, agreement, arrangement, commitment or understanding
+entered into by a member of the ConocoPhillips Group in connection with the Separation), shall be assigned in part to the applicable member(s) of the applicable Group, if so assignable, or appropriately amended prior to, on or after the Distribution
+Date, so that each party or the members of its respective Group shall, as of the Distribution Date, be entitled to the rights and benefits, and shall assume the related portion of any Liabilities, inuring to its respective businesses (any contract,
+agreement, arrangement, commitment or understanding referred to in clause (i) or (ii) above, a “Shared Contract”); provided, however, that, in the case of each of clause (i) and (ii), (1) in no
+event shall any member of any Group be required to assign (or amend) any Shared Contract in its entirety or to assign a portion of any Shared Contract which is not assignable (or cannot be amended) by its terms (including any terms imposing consents
+or conditions on an assignment where such consents or conditions have not been obtained or fulfilled) and (2) if any Shared Contract cannot be so partially assigned by its terms or otherwise, or cannot be amended or if such assignment or
+amendment would impair the benefit the parties thereto derive from such Shared Contract, then the parties shall, and shall cause each of their respective Subsidiaries to, take such other reasonable and permissible actions (including by providing
+prompt notice to the other party with respect to any relevant claim of Liability or other relevant matters arising in connection with a Shared Contract so as to allow such other party the ability to exercise any applicable rights under such Shared
+Contract) to cause a member of the Phillips 66 Group or the ConocoPhillips Group, as the case may be, to receive the rights and benefits of that portion of each Shared Contract that relates to the Phillips 66 Business or the businesses retained by
+ConocoPhillips, as the case may be (in each case, to the extent so related), as if such Shared Contract had been assigned to (or amended to allow) a member of the applicable Group pursuant to this Section 2.9, and to bear the burden of the
+corresponding Liabilities (including any Liabilities that may arise by reason of such arrangement), as if such Liabilities had been assumed by a member of the applicable Group pursuant to this Section 2.9.
+(b) Each of ConocoPhillips and Phillips 66 shall, and shall cause the members of its Group to, (i) treat for all Tax purposes the
+portion of each Shared Contract inuring to its respective businesses as Assets owned by, and/or Liabilities of, as applicable, such party, or its subsidiaries, as applicable, not later than the Distribution Date, and (ii) neither report nor
+take any Tax position (on a Tax Return or otherwise) inconsistent with such treatment (unless required by applicable Law).
+(c) Nothing in this Section 2.9 shall require any member of any Group to make any material payment (except to the extent advanced,
+assumed or agreed in advance to be reimbursed by any member of the other Group), incur any material obligation or grant any material concession for the benefit of any member of any other Group in order to effect any transaction contemplated by this
+Section 2.9.
+-24-
+2.10. Bank Accounts; Cash Balances.
+(a) ConocoPhillips and Phillips 66 each agrees to take, or cause the respective members of their respective Groups to take, at the
+Distribution Date (or such earlier time as ConocoPhillips and Phillips 66 may agree), all actions necessary to amend all contracts or agreements governing each bank and brokerage account owned by Phillips 66 or any other member of the Phillips 66
+Group (collectively, the “Phillips 66 Accounts”) so that such Phillips 66 Accounts, if currently linked (whether by automatic withdrawal, automatic deposit or any other authorization to transfer funds from or to, hereinafter
+“linked”) to any bank or brokerage account owned by ConocoPhillips or any other member of the ConocoPhillips Group (collectively, the “ConocoPhillips Accounts”), are de-linked from the ConocoPhillips Accounts.
+(b) ConocoPhillips and Phillips 66 each agrees to take, or cause the respective members of their respective Groups to take, at the
+Distribution Date (or such earlier time as ConocoPhillips and Phillips 66 may agree), all actions necessary to amend all agreements governing the ConocoPhillips Accounts so that such ConocoPhillips Accounts, if currently linked to a Phillips 66
+Account, are de-linked from the Phillips 66 Accounts.
+(c) It is intended that, following consummation of the actions
+contemplated by Sections 2.10(a) and 2.10(b), there will be in place a centralized cash management process pursuant to which the Phillips 66 Accounts will be managed centrally and funds collected will be transferred into one or more centralized
+accounts maintained by Phillips 66.
+(d) It is intended that, following consummation of the actions contemplated by Sections
+2.10(a) and 2.10(b), there will continue to be in place a centralized cash management process pursuant to which the ConocoPhillips Accounts will be managed centrally and funds collected will be transferred into one or more centralized accounts
+maintained by ConocoPhillips.
+(e) With respect to any outstanding payments initiated by ConocoPhillips, Phillips 66, or
+any of their respective Subsidiaries prior to the Separation, such outstanding payments shall be honored following the Separation by the Person or Group owning the account from which the payment was initiated.
+(f) As between ConocoPhillips and Phillips 66 (and the members of their respective Groups) all payments made and reimbursements received
+after the Separation by either party (or member of its Group) that relate to a business, Asset or Liability of the other party (or member of its Group), shall be held by such party for the use and benefit of the party entitled thereto (at the
+expense of the party entitled thereto). Each party shall maintain an accounting of any such payments and reimbursements, and the parties shall have a monthly reconciliation, whereby all such payments made and reimbursements received by each party
+are calculated and the net amount owed to ConocoPhillips or Phillips 66 shall be paid over with right of set-off. If at any time the net amount owed to either party exceeds $10,000,000, an interim payment of such net amount owed shall be made to the
+party entitled thereto within three (3) business days of such amount exceeding $10,000,000. Notwithstanding the foregoing, neither ConocoPhillips nor Phillips 66 shall act as collection agent for the other party, nor shall either party act as
+surety or endorser with respect to non-sufficient funds checks, or funds to be returned in a bankruptcy or fraudulent conveyance action.
+-25-
+2.11. Other Ancillary Agreements. Effective as of the date hereof, each of
+ConocoPhillips and Phillips 66 will execute and deliver all Ancillary Agreements to which it is a party (other than the Transfer Documents, which will be executed on or prior to the Distribution Date).
+2.12. Disclaimer of Representations and Warranties. EACH OF CONOCOPHILLIPS (ON BEHALF OF ITSELF AND EACH MEMBER OF THE
+CONOCOPHILLIPS GROUP) AND PHILLIPS 66 (ON BEHALF OF ITSELF AND EACH MEMBER OF THE PHILLIPS 66 GROUP) UNDERSTANDS AND AGREES THAT, EXCEPT AS EXPRESSLY SET FORTH HEREIN OR IN ANY ANCILLARY AGREEMENT, NO PARTY TO THIS AGREEMENT, ANY ANCILLARY AGREEMENT
+OR ANY OTHER AGREEMENT OR DOCUMENT CONTEMPLATED BY THIS AGREEMENT, ANY ANCILLARY AGREEMENT OR OTHERWISE, IS REPRESENTING OR WARRANTING IN ANY WAY AS TO THE ASSETS, BUSINESSES OR LIABILITIES TRANSFERRED OR ASSUMED AS CONTEMPLATED HEREBY OR THEREBY,
+AS TO ANY CONSENTS OR APPROVALS REQUIRED IN CONNECTION THEREWITH, AS TO THE VALUE OR FREEDOM FROM ANY SECURITY INTERESTS OF, OR ANY OTHER MATTER CONCERNING, ANY ASSETS OF SUCH PARTY, OR AS TO THE ABSENCE OF ANY DEFENSES OR RIGHT OF SET-OFF OR
+FREEDOM FROM COUNTERCLAIM WITH RESPECT TO ANY CLAIM OR OTHER ASSET, INCLUDING ANY ACCOUNTS RECEIVABLE, OF ANY PARTY, OR AS TO THE LEGAL SUFFICIENCY OF ANY ASSIGNMENT, DOCUMENT OR INSTRUMENT DELIVERED HEREUNDER TO CONVEY TITLE TO ANY ASSET OR THING
+OF VALUE UPON THE EXECUTION, DELIVERY AND FILING HEREOF OR THEREOF. EXCEPT AS MAY EXPRESSLY BE SET FORTH HEREIN OR IN ANY ANCILLARY AGREEMENT, ALL SUCH ASSETS ARE BEING TRANSFERRED ON AN “AS IS,” “WHERE IS” BASIS (AND, IN THE
+CASE OF ANY REAL PROPERTY, EXCEPT AS OTHERWISE AGREED BY CONOCOPHILLIPS, BY MEANS OF A QUITCLAIM OR SIMILAR FORM DEED OR CONVEYANCE) AND THE RESPECTIVE TRANSFEREES SHALL BEAR THE ECONOMIC AND LEGAL RISKS THAT (I) ANY CONVEYANCE WILL PROVE TO BE
+INSUFFICIENT TO VEST IN THE TRANSFEREE GOOD AND MARKETABLE TITLE, FREE AND CLEAR OF ANY SECURITY INTEREST, AND (II) ANY NECESSARY APPROVALS OR NOTIFICATIONS ARE NOT OBTAINED OR THAT ANY REQUIREMENTS OF LAWS OR JUDGMENTS ARE NOT COMPLIED WITH.
+2.13. Phillips 66 Financing Arrangements. Prior to the Distribution Date, Phillips 66 shall enter into the Phillips 66
+Financing Arrangements, on such terms and conditions as agreed by ConocoPhillips (including the amount that shall be borrowed pursuant to the Financing Arrangements and the interest rates for such borrowings). ConocoPhillips and Phillips 66 shall
+participate in the preparation of all materials and presentations as may be reasonably necessary to secure funding pursuant to the Phillips 66 Financing Arrangements, including rating agency presentations necessary to obtain the requisite ratings
+needed to secure the financing under any of the Phillips 66 Financing Arrangements. The parties agree that Phillips 66, and not ConocoPhillips, shall be ultimately responsible for all costs and expenses incurred by, and for reimbursement of such
+costs and expenses to, any member of the ConocoPhillips Group or Phillips 66 Group associated with the Phillips 66 Financing Arrangements.
+-26-
+2.14. Financial Information Certifications. ConocoPhillips’ disclosure controls
+and procedures and internal control over financial reporting (as each is contemplated by the Exchange Act) are currently applicable to Phillips 66 as its Subsidiary. In order to enable the principal executive officer and principal financial officer
+of Phillips 66 to make the certifications required of them under Section 302 of the Sarbanes-Oxley Act of 2002, ConocoPhillips, within thirty-five (35) days of the end of any fiscal quarter during which Phillips 66 remains its Subsidiary,
+shall provide Phillips 66 with one or more certifications with respect to such disclosure controls and procedures, its internal control over financial reporting and the effectiveness thereof. Such certification(s) shall be provided by ConocoPhillips
+(and not by any officer or employee in their individual capacity).
+ARTICLE III
+THE DISTRIBUTION
+3.1. The Distribution.
+(a) ConocoPhillips intends to consummate the Distribution in the first half of 2012. ConocoPhillips will, in its sole and absolute discretion, determine the Distribution Date and all terms of the
+Distribution, including, without limitation, the form, structure and terms of any transaction(s) and/or offering(s) to effect the Distribution and the timing and conditions to the consummation of the Distribution. In addition, ConocoPhillips may, at
+any time and from time to time until the consummation of the Distribution, modify or change the terms of the Distribution, including, without limitation, by accelerating or delaying the timing of the consummation of all or part of the Distribution.
+For the avoidance of doubt, nothing in the foregoing shall in any way limit ConocoPhillips’ right to terminate this Agreement or the Distribution as set forth in Article VI or alter the consequences of any such termination from those specified
+in such Article.
+(b) Phillips 66 shall cooperate with ConocoPhillips to accomplish the Distribution and shall, at
+ConocoPhillips’ direction, promptly take any and all actions necessary or desirable to effect the Distribution, including, without limitation, the registration under the Securities Act and the Exchange Act of Phillips 66 Common Stock on an
+appropriate registration form or forms to be designated by ConocoPhillips. ConocoPhillips shall select any investment bank or manager in connection with the Distribution, as well as any financial printer, solicitation and/or exchange agent and
+financial, legal, accounting and other advisors for ConocoPhillips. Phillips 66 and ConocoPhillips, as the case may be, will provide to the Agent all share certificates and any information required in order to complete the Distribution.
+3.2. Actions Prior to the Distribution.
+(a) ConocoPhillips and Phillips 66 shall prepare and mail, prior to the Distribution Date, to the holders of ConocoPhillips Common Stock, such information concerning Phillips 66, its business, operations
+and management, the Distribution and such other matters as ConocoPhillips shall reasonably determine and as may be required by Law. ConocoPhillips and
+-27-
+Phillips 66 will prepare, and Phillips 66 will, to the extent required under applicable Law, file with the SEC any such documentation and any requisite no-action letters which ConocoPhillips
+determines are necessary or desirable to effectuate the Distribution, and ConocoPhillips and Phillips 66 shall each use its commercially reasonable efforts to obtain all necessary approvals from the SEC with respect thereto as soon as practicable.
+(b) ConocoPhillips and Phillips 66 shall take all such action as may be necessary or appropriate under the securities or blue
+sky laws of the United States (and any comparable Laws under any foreign jurisdiction) in connection with the Distribution.
+(c) Phillips 66 shall prepare and file, and shall use its commercially reasonable efforts to have approved, an application for the
+listing of the Phillips 66 Common Stock to be distributed in the Distribution on the NYSE, subject to official notice of distribution.
+(d) ConocoPhillips and Phillips 66 shall take all necessary action that may be required to provide for the adoption by Phillips 66 of the Amended and Restated Certificate of Incorporation of Phillips 66
+(the “Phillips 66 Certificate of Incorporation”) and the Amended and Restated Bylaws of Phillips 66, each in such form as may be reasonably determined by ConocoPhillips and Phillips 66, and Phillips 66 will file the Phillips 66
+Certificate of Incorporation with the Secretary of State of the State of Delaware.
+(e) ConocoPhillips and Phillips 66 shall
+take all actions as may be necessary to approve the stock-based employee benefit plans of Phillips 66 (and the grants of adjusted awards over ConocoPhillips stock by ConocoPhillips and of awards over Phillips 66 stock by Phillips 66) in order to
+satisfy the requirement of Rule 16b-3 under the Exchange Act and the applicable rules and regulations of the NYSE.
+3.3.
+Conditions to Distribution.
+(a) The consummation of the Distribution will be subject to the satisfaction, or waiver by
+ConocoPhillips in its sole and absolute discretion, of the conditions set forth in this Section 3.3(a). Any determination by ConocoPhillips regarding the satisfaction or waiver of any of such conditions will be conclusive.
+(i) The Separation shall have been completed in accordance with the Restructuring Steps Memorandum.
+(ii) ConocoPhillips will have received a private letter ruling from the U.S. Internal Revenue Service substantially to the
+effect that, among other things, the Contribution and the Distribution, if effected, taken together, will qualify as a transaction that is tax-free for U.S. federal income tax purposes under Sections 355 and 368(a)(1)(D) of the Code.
+(iii) All Governmental Approvals necessary to consummate the Distribution shall have been obtained and be in full force
+and effect.
+(iv) The actions and filings necessary or appropriate under applicable securities laws in
+connection with the Distribution will have been taken or made, and, where applicable, have become effective or been accepted by the applicable Governmental Authority.
+-28-
+(v) No order, injunction or decree issued by any court or agency of
+competent jurisdiction or other legal restraint or prohibition preventing the consummation of the Distribution or any of the related transactions shall be in effect, and no other event outside the control of ConocoPhillips shall have occurred or
+failed to occur that prevents the consummation of the Distribution or any of the related transactions.
+(vi) A
+Registration Statement on Form 10 registering the Phillips 66 Common Stock (the “Form 10”) shall be effective under the Exchange Act, with no stop order in effect with respect thereto, and the Information Statement included therein
+(the “Information Statement”) shall have been mailed to ConocoPhillips’ stockholders as of the Record Date.
+(vii) The Phillips 66 Common Stock to be distributed to the ConocoPhillips stockholders in the Distribution shall have been accepted for listing on the NYSE, subject to official notice of distribution.
+(viii) Each of the Ancillary Agreements shall have been duly executed and delivered by the parties thereto.
+(ix) No events or developments shall have occurred or exist that, in the judgment of the ConocoPhillips Board,
+in its sole and absolute discretion, make it inadvisable to effect the Distribution or the other transactions contemplated hereby, or would result in the Distribution or the other transactions contemplated hereby not being in the best interest of
+ConocoPhillips or its stockholders.
+(b) The foregoing conditions are for the sole benefit of ConocoPhillips and shall not
+give rise to or create any duty on the part of ConocoPhillips or the ConocoPhillips Board to waive or not waive such conditions or in any way limit ConocoPhillips’ right to terminate this Agreement as set forth in Article VI or alter the
+consequences of any such termination from those specified in such Article. Any determination made by the ConocoPhillips Board prior to the Distribution concerning the satisfaction or waiver of any or all of the conditions set forth in this
+Section 3.3 shall be conclusive.
+3.4. Certain Stockholder Matters.
+(a) Subject to Section 3.3, on or prior to the Distribution Date, ConocoPhillips will deliver to the Agent for the benefit of holders
+of record of ConocoPhillips Common Stock on the Record Date all of the outstanding shares of Phillips 66 Common Stock (including, if such shares are represented by one or more stock certificates, such stock certificates, endorsed by ConocoPhillips
+in blank), and shall cause the transfer agent for the shares of ConocoPhillips Common Stock to instruct the Agent to distribute on the Distribution Date the appropriate number of such shares of Phillips 66 Common Stock to each such holder or
+designated transferee or transferees of such holder by way of direct registration in book-entry form. Phillips 66 will not issue paper stock certificates. The Distribution shall be effective at 11:59 p.m. Eastern Time on the Distribution Date or at
+such other time as ConocoPhillips may determine.
+-29-
+(b) Subject to Sections 3.3 and 3.4(c), each holder of ConocoPhillips Common Stock on the
+Record Date will be entitled to receive in the Distribution a number of whole shares of Phillips 66 Common Stock equal to the number of shares of ConocoPhillips Common Stock held by such holder on the Record Date multiplied by the Distribution
+Ratio.
+(c) No fractional shares will be distributed or credited to book-entry accounts in connection with the Distribution.
+As soon as practicable after the Distribution Date, ConocoPhillips shall direct the Agent to determine the number of whole shares and fractional shares of Phillips 66 Common Stock allocable to each holder of record or beneficial owner of
+ConocoPhillips Common Stock as of the Record Date, to aggregate all such fractional shares and to sell the whole shares obtained thereby in open market transactions (with the Agent, in its sole and absolute discretion, determining when, how and
+through which broker-dealer and at what price to make such sales), and to cause to be distributed to each such holder or for the benefit of each such beneficial owner, in lieu of any fractional share, such holder’s or owner’s ratable share
+of the proceeds of such sale, after deducting any taxes required to be withheld and after deducting an amount equal to all brokerage charges, commissions and transfer taxes attributed to such sale. Neither ConocoPhillips nor Phillips 66 will be
+required to guarantee any minimum sale price for the fractional shares of Phillips 66 Common Stock. Neither ConocoPhillips nor Phillips 66 will be required to pay any interest on the proceeds from the sale of fractional shares.
+(d) Until the Phillips 66 Common Stock is duly transferred in accordance with this Section 3.4 and applicable Law, from and after
+the effective time of the Distribution, Phillips 66 will regard the Persons entitled to receive such Phillips 66 Common Stock as record holders of Phillips 66 Common Stock in accordance with the terms of the Distribution without requiring any action
+on the part of such Persons. Phillips 66 agrees that, subject to any transfers of such stock, from and after the effective time of the Distribution (i) each such holder will be entitled to receive all dividends payable on, and exercise voting
+rights and all other rights and privileges with respect to, the shares of Phillips 66 Common Stock then held by such holder, and (ii) each such holder will be entitled, without any action on the part of such holder, to receive evidence of
+ownership of the shares of Phillips 66 Common Stock then held by such holder.
+ARTICLE IV
+DISPUTE RESOLUTION
+4.1. General Provisions. Any Dispute shall be resolved in accordance with the procedures set forth in Article IV of the Indemnification and Release Agreement, which shall be the sole and exclusive
+procedures for the resolution of any such Dispute unless otherwise specified in the applicable Ancillary Agreement or in Article IV of the Indemnification and Release Agreement.
+ARTICLE V
+FURTHER ASSURANCES AND ADDITIONAL COVENANTS
+5.1. Further Assurances.
+(a) In addition to the actions specifically
+provided for elsewhere in this Agreement, each of the parties hereto shall use its commercially reasonable efforts, prior to, on
+-30-
+and after the Distribution Date, to take, or cause to be taken, all actions, and to do, or cause to be done, all things, reasonably necessary, proper or advisable under applicable Laws,
+regulations and agreements, to consummate and make effective the transactions contemplated by this Agreement and the Ancillary Agreements.
+(b) Without limiting the foregoing, prior to, on and after the Distribution Date, each party hereto shall cooperate with the other parties, and without any further consideration, but at the expense of the
+requesting party, to execute and deliver, or use its commercially reasonable efforts to cause to be executed and delivered, all instruments, including instruments of conveyance, assignment and transfer, and to make all filings with, and to obtain
+all consents, approvals or authorizations of, any Governmental Authority or any other Person under any permit, license, agreement, indenture or other instrument (including any third-party consents or Governmental Approvals), and to take all such
+other actions as such party may reasonably be requested to take by any other party hereto from time to time, consistent with the terms of this Agreement and the Ancillary Agreements, in order to effectuate the provisions and purposes of this
+Agreement and the Ancillary Agreements and the transfers of the Phillips 66 Assets and the assignment and assumption of the Phillips 66 Liabilities and the other transactions contemplated hereby and thereby. Without limiting the foregoing, each
+party will, at the reasonable request, cost and expense of any other party, take such other actions as may be reasonably necessary to vest in such other party good and marketable title, free and clear of any Security Interest, if and to the extent
+it is practicable to do so.
+(c) On or prior to the Distribution Date, ConocoPhillips and Phillips 66 in their respective
+capacities as direct and indirect stockholders of their respective Subsidiaries, shall each ratify any actions which are reasonably necessary or desirable to be taken by ConocoPhillips Company, Phillips 66 Company or any other Subsidiary of
+ConocoPhillips, as the case may be, to effectuate the transactions contemplated by this Agreement and the Ancillary Agreements.
+(d) ConocoPhillips and Phillips 66, and each of the members of their respective Groups, waive (and agree not to assert against any of the
+others) any claim or demand that any of them may have against any of the others for any Liabilities or other claims relating to or arising out of: (i) the failure of Phillips 66 or any member of the Phillips 66 Group, on the one hand, or of
+ConocoPhillips or any member of the ConocoPhillips Group, on the other hand, to provide any notification or disclosure required under any state Environmental Law in connection with the Separation or the other transactions contemplated by this
+Agreement or the Ancillary Agreements, including the transfer by any member of any Group to any member of the other Group of ownership or operational control of any Assets not previously owned or operated by such transferee; or (ii) any
+inadequate, incorrect or incomplete notification or disclosure under any such state Environmental Law by the applicable transferor. To the extent any Liability to any Governmental Authority or any third Person arises out of any action or inaction
+described in clause (i) or (ii) above, the transferee of the applicable Asset hereby assumes and agrees to pay any such Liability.
+(e) Prior to the first anniversary of the Distribution Date, if one or more of the parties identifies any commercial or other service that is needed to assure a smooth and orderly transition of the
+businesses in connection with the consummation of the transactions
+-31-
+contemplated hereby, and that is not otherwise governed by the provisions of this Agreement or any Ancillary Agreement, the parties will cooperate in determining whether there is a mutually
+acceptable basis on which the other party will provide such service; provided, that if such service is to extend beyond the first anniversary of the Distribution Date, the terms and conditions upon which the services are to be provided beyond
+the first anniversary of the Distribution Date shall be market and arm’s-length terms and conditions.
+5.2.
+Performance. ConocoPhillips will cause to be performed, and hereby guarantees the performance of, all actions, agreements and obligations set forth in this Agreement or in any Ancillary Agreement to be performed by any member of the
+ConocoPhillips Group. Phillips 66 will cause to be performed, and hereby guarantees the performance of, all actions, agreements and obligations set forth in this Agreement or in any Ancillary Agreement to be performed by any member of the Phillips
+66 Group. Each party (including its permitted successors and assigns) further agrees that it will (a) give timely notice of the terms, conditions and continuing obligations contained in this Section 5.2 to all of the other members of its
+Group, and (b) cause all of the other members of its Group not to take any action or fail to take any such action inconsistent with such party’s obligations under this Agreement, any Ancillary Agreement or the transactions contemplated
+hereby or thereby.
+5.3. ConocoPhillips Guarantees. Phillips 66 acknowledges that in the course of conduct of the
+Phillips 66 Business, ConocoPhillips and members of the ConocoPhillips Group may have entered into various arrangements in which guarantees, bonds, letters of credit or similar arrangements were issued or arranged by ConocoPhillips or members of the
+ConocoPhillips Group to support or facilitate the Phillips 66 Business. Any such arrangements entered into by ConocoPhillips and its Affiliates are, to the extent related to the Phillips 66 Business, hereinafter referred to as the
+“ConocoPhillips Guarantees.” Except as otherwise agreed by ConocoPhillips and Phillips 66, Phillips 66 agrees that it will use its commercially reasonable efforts to obtain or provide replacement guarantees, bonds, letters of credit
+or similar arrangements, which will be in effect at the Distribution Date, and obtain the release of ConocoPhillips and members of the ConocoPhillips Group from any ConocoPhillips Guarantees in accordance with Section 2.9 of the Indemnification
+and Release Agreement.
+5.4. Third-Party Agreements. Phillips 66 agrees that it will use its commercially reasonable
+efforts to obtain or provide replacement agreements with third parties for agreements between such third parties and ConocoPhillips or any member of the ConocoPhillips Group that are Phillips 66 Contracts and cannot be assigned to Phillips 66.
+5.5. Tax Matters. Notwithstanding anything to the contrary in this Agreement or any Ancillary Agreement, in the case
+of any conflict between this Agreement or any Ancillary Agreement (other than the Tax Sharing Agreement) and the Tax Sharing Agreement in relation to any matters addressed by the Tax Sharing Agreement, the Tax Sharing Agreement shall prevail.
+5.6. Indemnification Matters. Notwithstanding anything to the contrary in this Agreement or any Ancillary Agreement,
+in the case of any conflict between this Agreement or any Ancillary Agreement (other than the Indemnification and Release Agreement) and the Indemnification and Release Agreement in relation to any matters addressed by the
+-32-
+Indemnification and Release Agreement, the Indemnification and Release Agreement shall prevail; provided, however, that in relation to any matters concerning Taxes, the Tax Sharing
+Agreement shall prevail over the Indemnification and Release Agreement, and in relation to any matters governed by the Employee Matters Agreement, the Employee Matters Agreement shall prevail over the Indemnification and Release Agreement.
+5.7. Employee Matters. Notwithstanding anything to the contrary in this Agreement or any Ancillary Agreement, in the
+case of any conflict between this Agreement or any Ancillary Agreement (other than the Employee Matters Agreement) and the Employee Matters Agreement in relation to any matters addressed by the Employee Matters Agreement, the Employee Matters
+Agreement shall prevail; provided, however, that in relation to any matters concerning Taxes, the Tax Sharing Agreement shall prevail over the Employee Matters Agreement.
+ARTICLE VI
+TERMINATION
+6.1. Termination. This Agreement and any Ancillary Agreement may be terminated and the terms and conditions of the Distribution
+may be amended, modified or abandoned at any time prior to the Distribution Date by and in the sole and absolute discretion of the ConocoPhillips Board without the approval of any Person, including Phillips 66, in which case no party will have any
+liability of any kind to any other party by reason of this Agreement. After the Distribution, this Agreement may not be terminated except by an agreement in writing signed by each of the parties to this Agreement.
+ARTICLE VII
+MISCELLANEOUS
+7.1. Counterparts; Entire Agreement; Corporate Power.
+(a) This Agreement and each Ancillary Agreement may be executed in one or more counterparts, all of which shall be considered one and the same agreement, and shall become effective when one or more
+counterparts have been signed by each of the parties and delivered to the other party.
+(b) This Agreement and the Ancillary
+Agreements contain the entire agreement between the parties with respect to the subject matter hereof, supersede all previous agreements, negotiations, discussions, writings, understandings, commitments and conversations with respect to such subject
+matter and there are no agreements or understandings between the parties other than those set forth or referred to herein or therein.
+(c) ConocoPhillips represents on behalf of itself and each other member of the ConocoPhillips Group, and Phillips 66 represents on behalf of itself and each other member of the Phillips 66 Group, as
+follows:
+(i) each such Person has the requisite corporate or other power and authority and has taken all
+corporate or other action necessary in order to execute, deliver and perform each of this Agreement and each Ancillary Agreement to which it is a party and to consummate the transactions contemplated hereby and thereby; and
+-33-
+(ii) this Agreement and each Ancillary Agreement to which it is a party has
+been duly executed and delivered by it and constitutes a valid and binding agreement of it enforceable in accordance with the terms thereof.
+(d) Each party hereto acknowledges that it and each other party hereto may execute certain of the Ancillary Agreements by facsimile, stamp or mechanical signature. Each party hereto expressly adopts and
+confirms each such facsimile, stamp or mechanical signature made in its respective name as if it were a manual signature, agrees that it will not assert that any such signature is not adequate to bind such party to the same extent as if it were
+signed manually and agrees that at the reasonable request of any other party hereto at any time it will as promptly as reasonably practicable cause each such Ancillary Agreement to be manually executed (any such execution to be as of the date of the
+initial date thereof).
+(e) Notwithstanding any provision of this Agreement or any Ancillary Agreement, neither ConocoPhillips
+nor Phillips 66 shall be required to take or omit to take any act that would violate its fiduciary duties to any minority stockholders of any non-wholly owned Subsidiary of ConocoPhillips or Phillips 66, as the case may be (it being understood that
+directors’ qualifying shares or similar interests will be disregarded for purposes of determining whether a Subsidiary is wholly owned).
+7.2. Governing Law. This Agreement and, unless expressly provided therein, each Ancillary Agreement (and any claims or disputes arising out of or related hereto or thereto or to the transactions
+contemplated hereby and thereby or to the inducement of any party to enter herein and therein, whether for breach of contract, tortious conduct or otherwise and whether predicated on common law, statute or otherwise) shall be governed by and
+construed and interpreted in accordance with the Laws of the State of Delaware, irrespective of the choice of laws principles of the State of Delaware as of the date of this Agreement, including all matters of validity, construction, effect,
+enforceability, performance and remedies.
+7.3. Assignability. Except as set forth in any Ancillary Agreement, this
+Agreement and each Ancillary Agreement shall be binding upon and inure to the benefit of the parties hereto and thereto, respectively, and their respective successors and permitted assigns; provided, however, that no party hereto or
+thereto may assign its respective rights or delegate its respective obligations under this Agreement or any Ancillary Agreement without the express prior written consent of the other parties hereto or thereto.
+7.4. Third-Party Beneficiaries. Except for the indemnification rights under this Agreement or any Ancillary Agreement of any
+ConocoPhillips Indemnitee or Phillips 66 Indemnitee (as those capitalized terms are defined in the Indemnification and Release Agreement) in their respective capacities as such, (a) the provisions of this Agreement and each Ancillary Agreement
+are solely for the benefit of the parties and are not intended to confer upon any Person except the parties any rights or remedies hereunder or thereunder, and (b) there are no third-party beneficiaries of this Agreement or any Ancillary
+Agreement and neither this Agreement nor any Ancillary Agreement shall provide any third person with any remedy, claim, liability, reimbursement, claim of action or other right in excess of those existing without reference to this Agreement or any
+Ancillary Agreement.
+-34-
+7.5. Notices. All notices, requests, claims, demands or other communications under
+this Agreement and, to the extent, applicable and unless otherwise provided therein, under each of the Ancillary Agreements shall be in writing and shall be given or made (and shall be deemed to have been duly given or made upon receipt) by delivery
+in person, by overnight courier service, by facsimile or electronic transmission with receipt confirmed (followed by delivery of an original via overnight courier service), or by registered or certified mail (postage prepaid, return receipt
+requested) to the respective parties at the following addresses (or at such other address for a party as shall be specified in a notice given in accordance with this Section 7.5):
+If to ConocoPhillips, to:
+ConocoPhillips
+600 North Dairy Ashford Street
+Houston, Texas 77079
+Attention: General Counsel
+If to Phillips 66, to:
+Phillips 66
+600 North Dairy Ashford Street
+Houston, Texas 77079
+Attention: General Counsel
+Any party may, by notice to the other party, change the address and contact person to which any such notices are to be given.
+7.6. Severability. If any provision of this Agreement or any Ancillary Agreement or the application thereof to any Person or
+circumstance is determined by a court of competent jurisdiction to be invalid, void or unenforceable, the remaining provisions hereof or thereof, or the application of such provision to Persons or circumstances or in jurisdictions other than those
+as to which it has been held invalid or unenforceable, shall remain in full force and effect and shall in no way be affected, impaired or invalidated thereby. Upon such determination, the parties shall negotiate in good faith in an effort to agree
+upon such a suitable and equitable provision to effect the original intent of the parties.
+7.7. Force Majeure. No
+party shall be deemed in default of this Agreement or any Ancillary Agreement to the extent that any delay or failure in the performance of its obligations under this Agreement or any Ancillary Agreement, other than a delay or failure to make a
+payment, results from any cause beyond its reasonable control and without its fault or negligence, such as acts of God, acts of civil or military authority, embargoes, epidemics, war, riots, insurrections, fires, explosions, earthquakes, floods,
+unusually severe weather conditions, labor problems or unavailability of parts, or, in the case of computer systems, any failure in electrical or air conditioning equipment. In the event of any such excused delay, the time for performance shall be
+extended for a period equal to the time lost by reason of the delay.
+7.8. Publicity. Prior to the Distribution, each
+of Phillips 66 and ConocoPhillips shall consult with each other prior to issuing any press releases or otherwise making public statements with respect to the Separation, the Distribution or any of the other transactions contemplated hereby and prior
+to making any filings with any Governmental Authority with respect thereto.
+-35-
+7.9. Expenses. Except as expressly set forth in this Agreement (including Sections
+2.13 and 5.1(b)) or in any Ancillary Agreement, all fees, costs and expenses incurred in connection with the preparation, execution, delivery and implementation of this Agreement and any Ancillary Agreement, and with the consummation of the
+transactions contemplated hereby and thereby, will be borne by the party incurring such fees, costs or expenses.
+7.10.
+Late Payments. Except as expressly provided to the contrary in this Agreement or in any Ancillary Agreement, any amount not paid when due pursuant to this Agreement or any Ancillary Agreement (and any amounts billed or otherwise invoiced or
+demanded and properly payable that are not paid within thirty (30) days of such bill, invoice or other demand) shall accrue interest at a rate per annum equal to the Prime Rate plus 5%.
+7.11. Headings. The article, section and paragraph headings contained in this Agreement and in the Ancillary Agreements are for
+reference purposes only and shall not affect in any way the meaning or interpretation of this Agreement or any Ancillary Agreement.
+7.12. Survival of Covenants. Except as expressly set forth in any Ancillary Agreement, the covenants, representations and warranties contained in this Agreement and each Ancillary Agreement, and
+liability for the breach of any obligations contained herein or therein, shall survive the Separation and the Distribution and shall remain in full force and effect.
+7.13. Waivers of Default. Waiver by any party of any default by the other party of any provision of this Agreement or any Ancillary Agreement shall not be deemed a waiver by the waiving party of
+any subsequent or other default, nor shall it prejudice the rights of such party. No failure or delay by any party in exercising any right, power or privilege under this Agreement or any Ancillary Agreement shall operate as a waiver thereof nor
+shall a single or partial exercise thereof prejudice any other or further exercise thereof or the exercise of any other right, power or privilege.
+7.14. Specific Performance. Subject to the provisions of Article IV, in the event of any actual or threatened default in, or breach of, any of the terms, conditions and provisions of this Agreement
+or any Ancillary Agreement, the party or parties who are, or are to be, thereby aggrieved shall have the right to specific performance and injunctive or other equitable relief in respect of its or their rights under this Agreement or such Ancillary
+Agreement, in addition to any and all other rights and remedies at law or in equity, and all such rights and remedies shall be cumulative. The parties agree that the remedies at law for any breach or threatened breach, including monetary damages,
+are inadequate compensation for any loss and that any defense in any action for specific performance that a remedy at law would be adequate is waived. Any requirements for the securing or posting of any bond with such remedy are waived by each of
+the parties to this Agreement.
+7.15. Amendments. No provisions of this Agreement or any Ancillary Agreement shall be
+deemed waived, amended, supplemented or modified by any party, unless such waiver, amendment, supplement or modification is in writing and signed by the authorized representative of the party against whom it is sought to enforce such waiver,
+amendment, supplement or modification.
+-36-
+7.16. Interpretation. In this Agreement and any Ancillary Agreement, (a) words
+in the singular shall be held to include the plural and vice versa and words of one gender shall be held to include the other genders as the context requires; (b) the terms “hereof,” “herein,” “herewith” and words
+of similar import, and the terms “Agreement” and “Ancillary Agreement” shall, unless otherwise stated, be construed to refer to this Agreement or the applicable Ancillary Agreement as a whole (including all of the Schedules,
+Exhibits and Appendices hereto and thereto) and not to any particular provision of this Agreement or such Ancillary Agreement; (c) Article, Section, Exhibit, Schedule and Appendix references are to the Articles, Sections, Exhibits, Schedules
+and Appendices to this Agreement (or the applicable Ancillary Agreement) unless otherwise specified; (d) the word “including” and words of similar import when used in this Agreement (or the applicable Ancillary Agreement) means
+“including, without limitation”; (e) the word “or” shall not be exclusive; and (f) unless expressly stated to the contrary in this Agreement or in any Ancillary Agreement, all references to “the date hereof,”
+“the date of this Agreement,” “hereby” and “hereupon” and words of similar import shall all be references to the date first stated in the preamble to this Agreement, regardless of any amendment or restatement hereof.
+7.17. Relationship of the Parties. It is expressly agreed that, from and after the Distribution Date and for purposes
+of this Agreement and the Ancillary Agreements, (a) no member of the Phillips 66 Group shall be deemed to be an Affiliate of any member of the ConocoPhillips Group and (b) no member of the ConocoPhillips Group shall be deemed to be an
+Affiliate of any member of the Phillips 66 Group.
+7.18. Limitations of Liability. NOTWITHSTANDING ANYTHING IN THIS
+AGREEMENT TO THE CONTRARY, NEITHER PHILLIPS 66 OR ITS AFFILIATES, ON THE ONE HAND, NOR CONOCOPHILLIPS OR ITS AFFILIATES, ON THE OTHER HAND, SHALL BE LIABLE UNDER THIS AGREEMENT TO THE OTHER FOR ANY SPECIAL, INDIRECT, PUNITIVE, EXEMPLARY, REMOTE,
+SPECULATIVE OR SIMILAR DAMAGES IN EXCESS OF COMPENSATORY DAMAGES OF THE OTHER ARISING IN CONNECTION WITH THE TRANSACTIONS CONTEMPLATED HEREBY (OTHER THAN ANY SUCH LIABILITY WITH RESPECT TO A THIRD-PARTY CLAIM).
+-37-
+IN WITNESS WHEREOF, the parties have caused this Separation and Distribution Agreement to be
+executed by their duly authorized representatives.
+CONOCOPHILLIPS
+By:
+/s/ Ryan M. Lance
+Name:
+Ryan M. Lance
+Title:
+Chairman and Chief Executive Officer
+PHILLIPS 66
+By:
+/s/ Greg C. Garland
+Name:
+Greg C. Garland
+Title:
+Chairman, President and Chief
+Executive Officer
+-38-

@@ -1,6 +1,11 @@
 # Open Corporate Graph
 
-**[Open the live map on GitHub Pages](https://corporatenetworkmapper.github.io/open-corporate-graph/)**
+## Live maps
+
+- **[Original Corporate Network Map](https://corporatenetworkmapper.github.io/open-corporate-graph/)**
+- **[Fuel Web — latest version](https://corporatenetworkmapper.github.io/open-corporate-graph/fuel-web/)**
+
+Fuel Web includes the combined network, government-record checks, supporting instruments, name-mention audits, and HD PNG export. The GitHub copy contains the saved evidence snapshot; the existing ChatGPT scheduled refresh does not automatically update this copy.
 
 A free, browser-based corporate/entity relationship explorer built around public records, provenance, and interactive graph expansion.
 
